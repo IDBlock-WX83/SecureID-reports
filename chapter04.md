@@ -12,7 +12,6 @@
 - Verificación segura y transparente: Las autoridades locales necesitan verificar la identidad de los residentes de manera eficiente y sin posibilidad de fraude, mediante un sistema seguro y transparente.
 - Infraestructura adaptada a áreas rurales: La plataforma debe funcionar tanto en línea como fuera de línea para adaptarse a las limitaciones tecnológicas en estas zonas.
 ---
----
 ### 4.1.2. Attribute-Driven Design Inputs
 ---
 #### 4.1.2.1. Primary Functionality (Primary User Stories)
