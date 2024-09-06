@@ -23,6 +23,8 @@
 ### 4.2.1. EventStorming
 Mediante la técnica del Event Storming definimos los siguientes Bounded Context los cuales son principales dentro del proyecto.
 
+El diagrama completo se encuentra en el siguiente enlace: [SecureID_EventStorming](https://miro.com/app/board/uXjVKjwtUkA=/?share_link_id=781413633439).
+
 **BlockChain Management**
 ![BlockChainManagemen](assets/chapter04/4.2.1/context_BlockChainManagement.png)
 
