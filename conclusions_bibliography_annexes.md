@@ -13,16 +13,20 @@
 
 ---
 **Bibliografía**
-- Gothelf, J., & Seiden, J. (2013). Lean UX: Applying lean principles to improve user experience. O'Reilly Media, Inc.
-- Cooper, A., Reimann, R., Cronin, D., & Noessel, C. (2014). About face: The essentials of interaction design. John Wiley & Sons.
-- Kim, G. J. (2015). Designing virtual reality systems: The structured approach. Springer.
-- Podeswa, H. (2009). The business analyst's handbook. Cengage Learning.
-- Rubin, K. S. (2012). Essential Scrum: A practical guide to the most popular Agile process. Addison-Wesley.
-- Adzic, G. (2011). Impact mapping: Making a big impact with software products and projects. Provoking Thoughts.
-- Fowler, M. (2003). Patterns of enterprise application architecture. Addison-Wesley Longman Publishing Co., Inc.
-- Vernon, V. (2013). Implementing domain-driven design. Addison-Wesley.
-- Young, A. (2017). EventStorming: An act of deliberate collective learning. Leanpub.
-- Patton, J. (2014). User story mapping: Discover the whole story, build the right product. O'Reilly Media, Inc.
+- Adzic, G. (2011). Impact mapping: Making a big impact with software products and projects. Provoking Thoughts. Recuperado de https://www.impactmapping.org/book.html
+- Aguirre Martens, G. (2023, 25 de octubre). Salud en el Perú: De la cobertura en papel a la cobertura real. América Latina y el Caribe - Blog del Banco Mundial. Recuperado de https://blogs.worldbank.org/es/latinamerica/cobertura-salud-peru
+- Cooper, A., Reimann, R., Cronin, D., & Noessel, C. (2014). About face: The essentials of interaction design. John Wiley & Sons. Recuperado de https://fall14se.wordpress.com/wp-content/uploads/2017/04/alan-cooper-robert-reimann-david-cronin-christopher-noessel-about-face_-the-essentials-of-interaction-design-wiley-2014.pdf
+- El Peruano. (2021, 21 de agosto). La desigualdad en el Perú. Recuperado de https://elperuano.pe/noticia/127324-la-desigualdad-en-el-peru
+- Fowler, M. (2003). Patterns of enterprise application architecture. Addison-Wesley Longman Publishing Co., Inc. Recuperado de https://dl.ebooksworld.ir/motoman/Patterns%20of%20Enterprise%20Application%20Architecture.pdf
+- Gothelf, J., & Seiden, J. (2013). Lean UX: Applying lean principles to improve user experience. O'Reilly Media, Inc. Recuperado de https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652
+- Kim, G. J. (2015). Designing virtual reality systems: The structured approach. Springer. Recuperado de https://link.springer.com/book/10.1007/978-1-84628-230-0
+- Ministerio de Transportes y Comunicaciones. (2023). Innovar para conectar: Estrategias y medidas de regulación inteligente para reducir la brecha digital. Recuperado de https://cdn.www.gob.pe/uploads/document/file/4341442/Innovar%20para%20conectar.pdf
+- Patton, J. (2014). User story mapping: Discover the whole story, build the right product. O'Reilly Media, Inc. Recuperado de https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909
+- Podeswa, H. (2009). The business analyst's handbook. Cengage Learning. Recuperado de https://www.amazon.com/Business-Analysts-Handbook-Howard-Podeswa/dp/1598635654
+- Rubin, K. S. (2012). Essential Scrum: A practical guide to the most popular Agile process. Addison-Wesley. Recuperado de https://libdoc.dpu.ac.th/eBook/113642.pdf
+- Unidad Latina. (2024, 11 de abril). Comunidades rurales: Acceso a la tecnología. Recuperado de https://unidadlatina.org/tecnologia/tecnologia-en-comunidades-rurales/
+- Vernon, V. (2013). Implementing domain-driven design. Addison-Wesley. Recuperado de https://dl.ebooksworld.ir/motoman/AW.Implementing.Domain-Driven.Design.www.EBooksWorld.ir.pdf
+- Young, A. (2017). EventStorming: An act of deliberate collective learning. Leanpub. Recuperado de https://www.eventstorming.com/book/
 
 ---
 **Anexos**
