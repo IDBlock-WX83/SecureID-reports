@@ -7,7 +7,15 @@
 ### 4.1.2. Attribute-Driven Design Inputs
 
 #### 4.1.2.1. Primary Functionality (Primary User Stories)
-Esta sección describe los Epics e Historias de Usuario que tienen mayor impacto en la arquitectura de la solución SecureBag. Estos requisitos funcionales son esenciales para el éxito del proyecto y deben ser considerados cuidadosamente durante el proceso de diseño.
+Esta sección describe los Epics e Historias de Usuario que tienen mayor impacto en la arquitectura de la solución SecureID. Estos requisitos funcionales son esenciales para el éxito del proyecto y deben ser considerados cuidadosamente durante el proceso de diseño.
+
+|User Story ID   |Título  |Descripción   | Criterios de aceptación  | Relacionado con  |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+|US09  |Implementación del Registro de Identidad en Blockchain   |   |   |   |
+|US11   |Verificación de Identidad en Tiempo Real   |   |   |   |
+|US06  |Integración con Servicios Gubernamentales   |   |   |   |
+|US05  |Uso de la Plataforma sin Conexión a Internet   |   |   |   |
+|US16   |Respaldo y Recuperación de Datos   |   |   |   |
 
 
 
