@@ -44,7 +44,7 @@
 ##### Autoridades locales
 ![image](https://github.com/user-attachments/assets/1f38095d-1585-4663-a5c0-e75765d104ad)
 ---
-### 2.3.5. As-is Scenario Mapping
+### 2.3.4. As-is Scenario Mapping
 ##### Residente de zonas rurales
 ![image](https://github.com/user-attachments/assets/52519b63-ff33-4f6e-8ac5-83d4206296a9)
 ##### Autoridades locales
