@@ -21,7 +21,29 @@
 ## 4.2. Strategic-Level Domain-Driven Design
 ---
 ### 4.2.1. EventStorming
----
+Mediante la técnica del Event Storming definimos los siguientes Bounded Context los cuales son principales dentro del proyecto.
+
+**BlockChain Management**
+![BlockChainManagemen](assets/chapter04/4.2.1/context_BlockChainManagement.png)
+
+**Data Synchronization Management**
+![context_DataSynchronization](assets/chapter04/4.2.1/context_DataSynchronization.png)
+
+**Audit and Security Management**
+![context_AuditAndSecurity](assets/chapter04/4.2.1/context_AuditAndSecurity.png)
+
+**Government Integration Management**
+![context_GovernmentIntegration](assets/chapter04/4.2.1/context_GovernmentIntegration.pngg)
+
+**Identity Verification Management**
+![context_IdentityVerification](assets/chapter04/4.2.1/context_IdentityVerification.png)
+
+**Profile Management**
+![context_ProfileManagement](assets/chapter04/4.2.1/context_ProfileManagement.png)
+
+**Service Access Management**
+![context_ServiceAccessManagement](assets/chapter04/4.2.1/context_ServiceAccessManagement.png)
+
 ### 4.2.2. Candidate Context Discovery
 ---
 ### 4.2.3. Domain Message Flows Modeling
