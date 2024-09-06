@@ -27,7 +27,30 @@
 ### 4.2.3. Domain Message Flows Modeling
 ---
 ### 4.2.4. Bounded Context Canvases
----
+Estos lienzos son herramientas poderosas que nos permiten visualizar y definir los límites de 
+nuestros contextos delimitados dentro de un dominio complejo. A través de la utilización de estos 
+lienzos, podemos clarificar y comunicar de manera efectiva los límites y las interacciones entre los 
+distintos subdominios de nuestro sistema. 
+
+**Profile Management Context***
+![profile](assets/chapter04/4.2.4/profile_management.png)
+
+**Identity Verification Context***
+![identity](assets/chapter04/4.2.4/identity_verification.png)
+
+**Service Access Management Context***
+![service](assets/chapter04/4.2.4/service_access.png)
+
+**Audit and Security Context***
+![audit](assets/chapter04/4.2.4/auditsecurity.png)
+
+**Government Integration Context***
+![Government](assets/chapter04/4.2.4/government_integration.png)
+
+**Blockchain Management Context***
+![Blockchain](assets/chapter04/4.2.4/blockchain.png)
+
+Enlace a Miro: [SecureID_Context_Canvases](https://miro.com/app/board/uXjVM6QV_5Q=/?share_link_id=391390025740)
 ### 4.2.5. Context Mapping
 ---
 ## 4.3. Software Architecture
