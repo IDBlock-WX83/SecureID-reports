@@ -52,7 +52,9 @@ distintos subdominios de nuestro sistema.
 
 Enlace a Miro: [SecureID_Context_Canvases](https://miro.com/app/board/uXjVM6QV_5Q=/?share_link_id=391390025740)
 ### 4.2.5. Context Mapping
----
+
+![Context_map](assets/chapter04/4.2.5/context_map.png)
+Enlace a Miro: [SecureID_Context_Mapping](https://miro.com/app/board/uXjVKjwtUkA=/?share_link_id=864873335225)
 ## 4.3. Software Architecture
 ---
 ### 4.3.1. Software Architecture System Landscape Diagram
