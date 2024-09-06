@@ -33,7 +33,7 @@ Mediante la técnica del Event Storming definimos los siguientes Bounded Context
 ![context_AuditAndSecurity](assets/chapter04/4.2.1/context_AuditAndSecurity.png)
 
 **Government Integration Management**
-![context_GovernmentIntegration](assets/chapter04/4.2.1/context_GovernmentIntegration.pngg)
+![context_GovernmentIntegration](assets/chapter04/4.2.1/context_GovernmentIntegration.png)
 
 **Identity Verification Management**
 ![context_IdentityVerification](assets/chapter04/4.2.1/context_IdentityVerification.png)
