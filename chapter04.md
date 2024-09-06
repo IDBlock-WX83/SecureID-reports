@@ -36,6 +36,7 @@ concisa, lo que facilita la comunicación y el diseño efectivo de sistemas comp
 **Scenario: Local authorities verify resident identification**
 ![scenario02](assets/chapter04/4.2.3/scenario02.png)
 
+Enlace a Miro: [SecureID_Message Flow](https://miro.com/app/board/uXjVM6QV_5Q=/?share_link_id=720006541665) 
 ### 4.2.4. Bounded Context Canvases
 ---
 ### 4.2.5. Context Mapping
