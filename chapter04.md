@@ -1,17 +1,39 @@
 # Capítulo IV: Strategic-Level Software Design
----
+
 ## 4.1. Strategic-Level Attribute-Driven Design
----
+
 ### 4.1.1. Design Purpose
----
+
 ### 4.1.2. Attribute-Driven Design Inputs
----
+
 #### 4.1.2.1. Primary Functionality (Primary User Stories)
----
+Esta sección describe los Epics e Historias de Usuario que tienen mayor impacto en la arquitectura de la solución SecureBag. Estos requisitos funcionales son esenciales para el éxito del proyecto y deben ser considerados cuidadosamente durante el proceso de diseño.
+
+
+
 #### 4.1.2.2. Quality attribute Scenarios
----
+Los escenarios de atributos de calidad identificados inicialmente se centran en aquellos que tienen un mayor impacto en la arquitectura de nuestra solución. Estos escenarios proporcionan una visión clara de cómo se espera que nuestro sistema responda a diferentes estímulos en términos de calidad. 
+
+
+|Atributo   | Fuente  | Estímulo  | Entorno  | Respuesta  | Medida |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|  Usabilidad | Residente rural  |  El usuario intenta registrarse en la plataforma SecureID. |  Conectividad limitada o en un dispositivo móvil básico. | El sistema proporciona una interfaz clara, accesible y con asistencia paso a paso.  | Registro completado sin errores o abandonos (95% éxito).  |
+|Disponibilidad   |  Residente rural | El usuario intenta acceder a su identificación digital sin conexión a internet.  | Sin conexión a internet (offline). | El sistema almacena los datos localmente y sincroniza cuando hay conexión disponible.  | Identificación accesible en modo offline el 100% del tiempo.  |
+|Rendimiento   | Autoridad local  |  La autoridad local verifica la identidad de un residente. | Plataforma con alto volumen de solicitudes.  | Verificación completada en menos de 2 segundos.  |  Tiempo de verificación inferior a 2 segundos en el 95% de los casos. |
+| Seguridad  | Gobierno / Autoridad local  | Un intento de acceso no autorizado a la plataforma es detectado.  | Plataforma en operación normal.  |  El sistema detecta el acceso no autorizado, lo bloquea y notifica a los administradores. |  Tiempo de detección y respuesta inferior a 1 segundo. |
+|Escalabilidad   |  Administrador del sistema |Aumento repentino en el número de registros de identificación.   | Alto crecimiento de usuarios en poco tiempo.  | El sistema gestiona el crecimiento sin degradación en el rendimiento.  |El sistema soporta el 100% del incremento de usuarios sin caída.  |
+|  Privacidad | Residente rural  | El residente envía datos personales para su registro en la plataforma.  | Durante el proceso de registro en la plataforma.  | Los datos son cifrados y almacenados de manera segura, cumpliendo con normativas de privacidad (GDPR, CCPA).  | Cifrado de datos sensibles en tránsito y en reposo; cumplimiento del 100% de las normativas de privacidad aplicables.  |
+
 #### 4.1.2.3. Constraints.
----
+Los constraints son características que no pueden ser negociadas y están impuestas por el cliente o el negocio como guía para la elaboración de la solución. A continuación, se presentan los principales constraints a considerar en el diseño de nuestra solución.
+
+| Technical Story ID  | Título  |  Descripción |  Criterios de Aceptación | Relacionado con (Epic ID)  |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+|TS01   | Cumplimiento de Normativas de Privacidad  |  La plataforma debe cumplir con normativas internacionales de protección de datos, como el GDPR, para garantizar la privacidad y seguridad de los usuarios. | Todos los datos personales deben ser cifrados y protegidos; auditorías de cumplimiento de normativas deben realizarse periódicamente.  |  US04, US09 |
+| TS02  |  Funcionamiento Offline | La plataforma debe permitir el registro y acceso a datos sin conexión a internet, sincronizando la información cuando se restablezca la conectividad.  |Los usuarios pueden registrar y consultar su identidad digital offline; los datos se sincronizan automáticamente una vez que la conexión a internet esté disponible.   | US05, US10  |
+|TS03  |  Escalabilidad |El sistema debe ser escalable para manejar un crecimiento exponencial de usuarios sin afectar el rendimiento o la disponibilidad de los servicios.   |  El sistema debe soportar hasta 1 millón de usuarios simultáneos sin reducir su rendimiento; monitoreo de escalabilidad debe realizarse continuamente para ajustes en infraestructura. |  US08, US14 |
+|  TS04 |  Integración con Sistemas Gubernamentales | SecureID debe integrarse con bases de datos y sistemas de servicios gubernamentales para validar la identidad de los usuarios y permitir el acceso a servicios.  |Las autoridades locales pueden acceder a los datos de los residentes a través de la integración con bases de datos gubernamentales; sincronización de datos correcta en tiempo real.   |  US06, US12 |
+| TS05  |  Seguridad de Datos y Auditoría | La plataforma debe mantener un registro detallado de todas las transacciones e interacciones para auditorías de seguridad.  | Cada acción dentro de la plataforma debe generar un registro que puede ser auditado; el sistema debe detectar intentos de fraude y alertar a las autoridades locales en tiempo real.  | US04, US15  |
 ### 4.1.3. Architectural Drivers Backlog
 ---
 ### 4.1.4. Architectural Design Decisions
