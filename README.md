@@ -8,6 +8,10 @@
 ================================
 #### Team members
 - Pastrana León, Aldo Francisco (U20211C186)
+- Ore Aleman, Anderson Raul (U202011467)
+- Sabino Arostegui, Max Dayson (U20201A991)
+- Hernandez Tuesta, Sebastian  (U20171B498)
+- López Takahashi, Rodrigo Andrés (U201615003)
 
 #### Ciclo 2024-02
 
