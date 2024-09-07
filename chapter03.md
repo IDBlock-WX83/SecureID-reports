@@ -1,6 +1,6 @@
-# **Historias de Usuario - Plataforma SecureID**
 
 
+Plataforma SecureID
 ---
 | **Número** | US01 |
 |------------|------|
