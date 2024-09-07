@@ -183,3 +183,5 @@ Enlace a Miro: [SecureID_Context_Mapping](https://miro.com/app/board/uXjVKjwtUkA
 
 ### 4.3.4. Software Architecture Deployment Diagrams
 ---
+
+![Deployment Diagram](assets/chapter04/4.3.4/Deployment_Diagram.png)
