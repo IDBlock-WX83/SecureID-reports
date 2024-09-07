@@ -169,19 +169,19 @@ Enlace a Miro: [SecureID_Context_Mapping](https://miro.com/app/board/uXjVKjwtUkA
 ### 4.3.1. Software Architecture System Landscape Diagram
 ---
 
-![System Diagram](assets/chapter04/4.3.1/System_landscape_Diagram.png)
+![System Diagram](./assets/chapter04/4.3.1/System_landscape_Diagram.png)
 
 ### 4.3.2. Software Architecture Context Level Diagrams
 ---
 
-![Context Diagram](assets/chapter04/4.3.2/Context_Level_Diagram.png)
+![Context Diagram](./assets/chapter04/4.3.2/Context_Level_Diagram.png)
 
 ### 4.3.3. Software Architecture Container Level Diagrams
 ---
 
-![Container Diagram](assets/chapter04/4.3.3/Container_level_Diagram.png)
+![Container Diagram](./assets/chapter04/4.3.3/Container_level_Diagram.png)
 
 ### 4.3.4. Software Architecture Deployment Diagrams
 ---
 
-![Deployment Diagram](assets/chapter04/4.3.4/Deployment_Diagram.png)
+![Deployment Diagram](./assets/chapter04/4.3.4/Deployment_Diagram.png)
