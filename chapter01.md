@@ -118,6 +118,8 @@ Indicadores de éxito: Sabremos que hemos tenido éxito cuando observamos una me
 
 <img src="./assets/1.2.2.4LeanUXCanvas/LeanUXCanvas.jpg" width="1000"/>
 
+Enlace a Miro: [SecureID_Lean UX Canvas](https://miro.com/welcomeonboard/SXh4SWJrRVd6RW5VSHpBbFRFdWx5NTJIMFZyY1FnU21yaTNSUlU3aE5yT0hqNHZSN2dOczdXV3FMcFlGcDBHT3wzNDU4NzY0NTYyODY2NDM1MDk4fDI=?share_link_id=430777082355) 
+
 ## 1.3. Segmentos objetivo
 
 | Segmento                               	| Edad       	| Sexo  	| Ubicación  	| Poder Adquisitivo 	| Nivel Socioeconómico 	| Hábito de Consumo                                                                                                                  	|
