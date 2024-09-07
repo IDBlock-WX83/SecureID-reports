@@ -73,7 +73,18 @@ La identificación de Candidate Context Discovery es un procedimiento orientado 
 - Encargado de verificar y validar la identidad de los usuarios para garantizar que puedan acceder a servicios esenciales.
 - Funcionalidad Específica: Enfocado en la validación de identidades, lo cual requiere una lógica de verificación específica y conexiones con sistemas externos.
 ### 4.2.3. Domain Message Flows Modeling
----
+Este enfoque esencial nos permite visualizar y comprender cómo las diferentes partes de nuestro 
+sistema interactúan entre sí mediante intercambios de mensajes. A través del modelado de flujos 
+de mensajes, podemos capturar la lógica y la dinámica de nuestro dominio de manera clara y 
+concisa, lo que facilita la comunicación y el diseño efectivo de sistemas complejos. 
+
+**Scenario: Resident register a digital identification**
+![scenario01](assets/chapter04/4.2.3/scenario01.png)
+
+**Scenario: Local authorities verify resident identification**
+![scenario02](assets/chapter04/4.2.3/scenario02.png)
+
+Enlace a Miro: [SecureID_Message Flow](https://miro.com/app/board/uXjVM6QV_5Q=/?share_link_id=720006541665) 
 ### 4.2.4. Bounded Context Canvases
 ---
 ### 4.2.5. Context Mapping
