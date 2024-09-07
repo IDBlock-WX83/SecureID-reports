@@ -107,6 +107,6 @@
 
 ---
 
-[Video de exposición TB1](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c186_upc_edu_pe/EgSXpnD5IhFPpEiI0nct0XYB6ju6S-rI5xnnJ2VAjwYDWA?e=rihy7k)
+[Video de exposición TB1](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c186_upc_edu_pe/EgSXpnD5IhFPpEiI0nct0XYBosu1bOh_ZrYg318WLZqdog?e=DPihWg)
 
 ![videodeexposicióntb1](./assets/anexos/videodeexposicióntb1.png)
