@@ -94,7 +94,7 @@ Realizar un análisis competitivo es importante ya que es esencial para averigua
 
 Alonso Garay, de 28 años y residente en Lima, Perú, usa dispositivos móviles Android y computadoras, y se siente cómodo con aplicaciones digitales, especialmente de empresas conocidas o recomendadas. Aunque tiene un DNI físico y acceso diario a internet, está interesado en la idea de una identificación digital, pero con reservas. Sus principales preocupaciones incluyen la privacidad y seguridad de su información personal, y necesita entender mejor cómo el blockchain gestionaría estas identidades y los beneficios concretos del sistema. Alonso quiere tener control y visibilidad sobre el uso de su identificación digital, incluyendo un historial de transacciones, y desea conocer los beneficios y la seguridad que ofrece SecureID. Su aceptación del sistema dependerá en gran medida de su confianza en la tecnología blockchain y en el manejo de sus datos personales.
 
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?e=Rhbwcd
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q0P63l
 
 Timing: 00:00 - 04:44
 
@@ -109,7 +109,7 @@ Timing: 00:00 - 04:44
 
 Isaac, que utiliza un dispositivo móvil con Android y tiene acceso diario a internet, se siente cómodo con aplicaciones digitales siempre que sean amigables y fáciles de usar. Posee un DNI físico y considera positiva la idea de gestionar una identificación digital, especialmente si se pueden verificar mediante métodos biométricos como huella digital o reconocimiento ocular. Cree que una identificación digital podría facilitar y acelerar el acceso a servicios esenciales al eliminar la necesidad de portar un DNI físico. Sin embargo, está preocupado por la implementación del sistema en áreas rurales de Perú, donde el acceso a internet y a dispositivos móviles es limitado, y duda de si la infraestructura tecnológica local podría soportar la solución. Espera que la aplicación permita ver su identificación y datos adicionales relevantes, y que tenga en cuenta las limitaciones tecnológicas y de conectividad en zonas rurales. En general, Isaac apoya la idea pero subraya la necesidad de abordar estos desafíos para que la solución sea efectiva y útil en su contexto.
 
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?e=Rhbwcd
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q0P63l
 
 Timing: 04:45 - 09:37
 
@@ -124,7 +124,7 @@ Timing: 04:45 - 09:37
 
 Alberto, un residente de 28 años en Lima, Perú, cuenta con un DNI y utiliza tanto un teléfono celular (Android) como una computadora. Se siente muy cómodo usando aplicaciones digitales y considera que una identificación digital sería una mejora significativa, ya que el teléfono es un dispositivo siempre presente y evitaría la necesidad de llevar documentos físicos. Sin embargo, le preocupa la posibilidad de que su identidad sea robada o hackeada. Ve beneficios en la identificación digital para facilitar trámites y acceder a servicios esenciales sin necesidad de enviar copias físicas de documentos. Además, le gustaría que la aplicación incluya otras identificaciones, como el brevete, para centralizar todos sus documentos en un solo lugar. En general, espera que SecureID le brinde mayor confianza al utilizar servicios en línea y le ahorre tiempo.
 
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?e=Rhbwcd
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q0P63l
 
 Timing: 09:38 - 15:12
 
@@ -139,7 +139,7 @@ Timing: 09:38 - 15:12
 
 Marzzio Chicana, de 23 años, es de Carabayllo, Lima, pero actualmente vive en Huaraz por temas de trabajo como asistente de gestión de trámites. Comenta que los principales desafíos en la gestión de identidades en comunidades rurales incluyen la falta de tecnología y conectividad, documentos no actualizados, y la baja alfabetización digital, complicando el proceso y resultando en incidentes de fraude y errores administrativos. Aunque se ha iniciado la digitalización, gran parte del trabajo sigue siendo en papel. Considera que una plataforma de identificación digital basada en blockchain podría ofrecer mayor seguridad y transparencia, facilitando el acceso a servicios esenciales y reduciendo fraudes. Sin embargo, existen preocupaciones relacionadas con la infraestructura insuficiente, resistencia al cambio y costos de implementación. Una plataforma web con seguridad, facilidad de uso, accesibilidad desde móviles y funcionalidad en áreas de baja conectividad impulsaría la alfabetización digital. El éxito de la implementación se mediría por la tasa de adopción y la reducción de errores. Es crucial involucrar a la comunidad desde el principio y ofrecer soporte continuo para asegurar una adopción efectiva.
 
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?e=Rhbwcd
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q0P63l
 
 Timing: 15:13 - 20:03
 
@@ -153,7 +153,7 @@ Timing: 15:13 - 20:03
 
 Pedro Jeremy Perez Pizarro, de 21 años, es de Lima, pero actualmente vive en Huaral por temas de trabajo como asistente administrativo. Comenta que varios desafíos en la gestión de identidades en áreas rurales incluyen la falta de tecnología y conectividad, documentos no actualizados y baja alfabetización digital, lo que complica el proceso y conduce a fraudes y errores administrativos. Aunque se ha iniciado la digitalización, gran parte del trabajo sigue siendo en papel. Considera que una plataforma de identificación digital basada en blockchain podría ofrecer mayor seguridad y transparencia, facilitando el acceso a servicios esenciales y reduciendo fraudes. Sin embargo, comenta que existen preocupaciones sobre la infraestructura insuficiente, la resistencia al cambio y los costos de implementación. Una plataforma web con seguridad, facilidad de uso, accesibilidad desde móviles y funcionalidad en áreas de baja conectividad impulsaría la alfabetización digital. El éxito se mediría por la adopción y la reducción de errores. Es necesario involucrar a la comunidad desde el principio y ofrecer soporte continuo para asegurar una adopción efectiva.
 
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?e=Rhbwcd
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q0P63l
 
 Timing: 20:04 - 24:53
 
@@ -167,7 +167,7 @@ Timing: 20:04 - 24:53
 
 Carlos De La Cruz Villarreal, de 23 años, es de Lima, pero actualmente vive en Huaura por temas de trabajo como asistente administrativo. Los desafíos en la gestión de identidades incluyen la falta de acceso a oficinas administrativas y la baja alfabetización, lo que complica la actualización de datos y el registro. También reporta fraudes y errores administrativos debido a la mala comunicación entre autoridades y residentes. Utilizan sistemas manuales y bases de datos en papel. Blockchain podría ofrecer una solución segura y accesible, reduciendo fraudes y mejorando la conectividad. A pesar de la resistencia inicial, con la capacitación adecuada, los residentes aceptarían la identificación digital. La plataforma debe ser fácil de usar, segura, accesible offline y adaptable a la infraestructura local. El éxito se mediría por la adopción generalizada, la reducción en el procesamiento de documentos y el mayor acceso a servicios esenciales. Involucrar a las comunidades desde el principio y ofrecer capacitaciones es fundamental.
 
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?e=Rhbwcd
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Q0P63l
 
 Timing: 24:54 - 29:58
 
