@@ -58,7 +58,16 @@ Los constraints son características que no pueden ser negociadas y están impue
 |  TS04 |  Integración con Sistemas Gubernamentales | SecureID debe integrarse con bases de datos y sistemas de servicios gubernamentales para validar la identidad de los usuarios y permitir el acceso a servicios.  |Las autoridades locales pueden acceder a los datos de los residentes a través de la integración con bases de datos gubernamentales; sincronización de datos correcta en tiempo real.   |  US06, US12 |
 | TS05  |  Seguridad de Datos y Auditoría | La plataforma debe mantener un registro detallado de todas las transacciones e interacciones para auditorías de seguridad.  | Cada acción dentro de la plataforma debe generar un registro que puede ser auditado; el sistema debe detectar intentos de fraude y alertar a las autoridades locales en tiempo real.  | US04, US15  |
 ### 4.1.3. Architectural Drivers Backlog
----
+
+Los drivers mapeados para nuestra plataforma SecureID, basado en las historias de usuario(US) señaladas anteriormente son:
+
+| Driver ID     | Título de Driver  | Descripción | Importancia para Stakeholders (High, Medium, Low) | Impacto en Architecture Technical Complexity (High, Medium, Low) |
+|-----------|----------|--------|---------|------------|
+|ADB-01|Seguridad y Protección de Datos|Implementar medidas avanzadas de seguridad para proteger los datos personales y asegurar la inmutabilidad de la blockchain.|High|High|
+|ADB-02|Escalabilidad del Sistema|Asegurar que la plataforma pueda manejar un gran número de usuarios y transacciones sin comprometer el rendimiento.|High|High|
+|ADB-03|Sincronización de Datos Offline|Implementar un mecanismo que permita a los usuarios almacenar datos localmente cuando están offline y sincronizarlos con la blockchain cuando se restablezca la conexión.|High|Medium|
+|ADB-04|Integración con Sistemas Gubernamentales|Facilitar la integración con bases de datos gubernamentales para la verificación de identidades y otros servicios, permitiendo una mayor eficiencia.|High|High|
+
 ### 4.1.4. Architectural Design Decisions
 ---
 ### 4.1.5. Quality Attribute Scenario Refinements
