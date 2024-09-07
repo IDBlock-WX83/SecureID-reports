@@ -68,3 +68,10 @@
 [Project Report GitHub](https://github.com/IDBlock-WX83/SecureID-reports)
 
 ![projectreport](./assets/anexos/projectreport.png)
+
+---
+
+[Lean UX Canvas](https://miro.com/welcomeonboard/SXh4SWJrRVd6RW5VSHpBbFRFdWx5NTJIMFZyY1FnU21yaTNSUlU3aE5yT0hqNHZSN2dOczdXV3FMcFlGcDBHT3wzNDU4NzY0NTYyODY2NDM1MDk4fDI=?share_link_id=430777082355)
+
+![leanuxcanvas](./assets/1.2.2.4LeanUXCanvas/LeanUXCanvas.jpg)
+
