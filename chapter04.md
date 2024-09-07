@@ -42,25 +42,25 @@ Mediante la técnica del Event Storming definimos los siguientes Bounded Context
 El diagrama completo se encuentra en el siguiente enlace: [SecureID_EventStorming](https://miro.com/app/board/uXjVKjwtUkA=/?share_link_id=781413633439).
 
 **BlockChain Management**
-![BlockChainManagemen](assets/chapter04/4.2.1/context_BlockChainManagement.png)
+![BlockChainManagemen](./assets/chapter04/4.2.1/context_BlockChainManagement.png)
 
 **Data Synchronization Management**
-![context_DataSynchronization](assets/chapter04/4.2.1/context_DataSynchronization.png)
+![context_DataSynchronization](./assets/chapter04/4.2.1/context_DataSynchronization.png)
 
 **Audit and Security Management**
-![context_AuditAndSecurity](assets/chapter04/4.2.1/context_AuditAndSecurity.png)
+![context_AuditAndSecurity](./assets/chapter04/4.2.1/context_AuditAndSecurity.png)
 
 **Government Integration Management**
-![context_GovernmentIntegration](assets/chapter04/4.2.1/context_GovernmentIntegration.png)
+![context_GovernmentIntegration](./assets/chapter04/4.2.1/context_GovernmentIntegration.png)
 
 **Identity Verification Management**
-![context_IdentityVerification](assets/chapter04/4.2.1/context_IdentityVerification.png)
+![context_IdentityVerification](./assets/chapter04/4.2.1/context_IdentityVerification.png)
 
 **Profile Management**
-![context_ProfileManagement](assets/chapter04/4.2.1/context_ProfileManagement.png)
+![context_ProfileManagement](./assets/chapter04/4.2.1/context_ProfileManagement.png)
 
 **Service Access Management**
-![context_ServiceAccessManagement](assets/chapter04/4.2.1/context_ServiceAccessManagement.png)
+![context_ServiceAccessManagement](./assets/chapter04/4.2.1/context_ServiceAccessManagement.png)
 
 ### 4.2.2. Candidate Context Discovery
 La identificación de Candidate Context Discovery es un procedimiento orientado al descubrimiento de áreas potenciales para la delimitación dentro de un sistema complejo. Este proceso conlleva el análisis exhaustivo del sistema en cuestión, con el fin de identificar sus elementos fundamentales y las interacciones que entre ellos se establecen, para luego agruparlos en sectores lógicos de delimitación. Este enfoque se persigue con la finalidad de simplificar tanto el diseño como la ejecución del sistema. El objetivo principal radica en la mejora de la escalabilidad, el rendimiento y la capacidad de mantenimiento del sistema en cuestión.
@@ -72,6 +72,7 @@ La identificación de Candidate Context Discovery es un procedimiento orientado 
 **Candidate Context 2: Verificación de Identidad***
 - Encargado de verificar y validar la identidad de los usuarios para garantizar que puedan acceder a servicios esenciales.
 - Funcionalidad Específica: Enfocado en la validación de identidades, lo cual requiere una lógica de verificación específica y conexiones con sistemas externos.
+
 ### 4.2.3. Domain Message Flows Modeling
 Este enfoque esencial nos permite visualizar y comprender cómo las diferentes partes de nuestro 
 sistema interactúan entre sí mediante intercambios de mensajes. A través del modelado de flujos 
@@ -79,12 +80,13 @@ de mensajes, podemos capturar la lógica y la dinámica de nuestro dominio de ma
 concisa, lo que facilita la comunicación y el diseño efectivo de sistemas complejos. 
 
 **Scenario: Resident register a digital identification**
-![scenario01](assets/chapter04/4.2.3/scenario01.png)
+![scenario01](./assets/chapter04/4.2.3/scenario01.png)
 
 **Scenario: Local authorities verify resident identification**
-![scenario02](assets/chapter04/4.2.3/scenario02.png)
+![scenario02](./assets/chapter04/4.2.3/scenario02.png)
 
 Enlace a Miro: [SecureID_Message Flow](https://miro.com/app/board/uXjVM6QV_5Q=/?share_link_id=720006541665) 
+
 ### 4.2.4. Bounded Context Canvases
 Estos lienzos son herramientas poderosas que nos permiten visualizar y definir los límites de 
 nuestros contextos delimitados dentro de un dominio complejo. A través de la utilización de estos 
@@ -92,28 +94,31 @@ lienzos, podemos clarificar y comunicar de manera efectiva los límites y las in
 distintos subdominios de nuestro sistema. 
 
 **Profile Management Context***
-![profile](assets/chapter04/4.2.4/profile_management.png)
+![profile](./assets/chapter04/4.2.4/profile_management.png)
 
 **Identity Verification Context***
-![identity](assets/chapter04/4.2.4/identity_verification.png)
+![identity](./assets/chapter04/4.2.4/identity_verification.png)
 
 **Service Access Management Context***
-![service](assets/chapter04/4.2.4/service_access.png)
+![service](./assets/chapter04/4.2.4/service_access.png)
 
 **Audit and Security Context***
-![audit](assets/chapter04/4.2.4/auditsecurity.png)
+![audit](./assets/chapter04/4.2.4/auditsecurity.png)
 
 **Government Integration Context***
-![Government](assets/chapter04/4.2.4/government_integration.png)
+![Government](./assets/chapter04/4.2.4/government_integration.png)
 
 **Blockchain Management Context***
-![Blockchain](assets/chapter04/4.2.4/blockchain.png)
+![Blockchain](./assets/chapter04/4.2.4/blockchain.png)
 
 Enlace a Miro: [SecureID_Context_Canvases](https://miro.com/app/board/uXjVM6QV_5Q=/?share_link_id=391390025740)
+
 ### 4.2.5. Context Mapping
 
-![Context_map](assets/chapter04/4.2.5/context_map.png)
+![Context_map](./assets/chapter04/4.2.5/context_map.png)
+
 Enlace a Miro: [SecureID_Context_Mapping](https://miro.com/app/board/uXjVKjwtUkA=/?share_link_id=864873335225)
+
 ## 4.3. Software Architecture
 ---
 ### 4.3.1. Software Architecture System Landscape Diagram
