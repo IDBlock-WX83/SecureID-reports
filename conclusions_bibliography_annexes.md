@@ -104,3 +104,9 @@
 [Registro de Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?e=Rhbwcd)
 
 ![registrodeentrevistas](./assets/anexos/registrodeentrevistas.png)
+
+---
+
+[Video de exposición TB1](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c186_upc_edu_pe/EgSXpnD5IhFPpEiI0nct0XYB6ju6S-rI5xnnJ2VAjwYDWA?e=rihy7k)
+
+![videodeexposicióntb1](./assets/anexos/registrodeentrevistas.png)

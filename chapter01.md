@@ -20,6 +20,26 @@ Ser la marca líder en soluciones de identidad digital basadas en blockchain par
 |Me llamo Aldo Francisco Pastrana León de la carrera de Ingeniería de Software y actualmente me encuentro en el octavo ciclo de mi carrera. Soy de Lima, tengo 22 años y me gustan las matemáticas. Además, mis pasatiempos son ver series, programar y videojuegos. Elegí mi carrera debido a que gusta la creación de los diversos programas y aplicaciones que existen. Además, para este curso me comprometo a ayudar en todo lo posible para la elaboración de este proyecto cumpliendo con mis responsabilidades.| <img src="./assets/1.1.2.PerfilesDeIntegrantes/AldoPastrana.png" width="1300"/>|
 |||
 
+| Anderson Raul Ore Aleman |  |
+|----------|----------|
+|En la actualidad estoy estudiando Ingeniería de Software en la universidad UPC. En mis tiempos libres me gusta escuchar diversos álbumes y jugar videojuegos. Me considero una persona que se puede adaptar a varias situaciones, también me considero autodidacta y mi aporte a la empresa es intentar buscar el lado innovador a las ideas.| <img src="./assets/1.1.2.PerfilesDeIntegrantes/Anderson.png" width="1000"/>|
+|||
+
+| Max Dayson Sabino Arostegui |  |
+|----------|----------|
+|Soy estudiante de Ingeniería de Software y me interesa especialmente el machine learning y la ciberseguridad. Tengo experiencia con la metodología ágil SCRUM y estoy familiarizado con varios frameworks y lenguajes de programación, como Angular, Vue, C++ y Python. Además, poseo habilidades blandas importantes como el trabajo en equipo, asertividad y cooperación.| <img src="./assets/1.1.2.PerfilesDeIntegrantes/Max.png" width="1000"/>|
+|||
+
+| Sebastian Hernandez Tuesta |  |
+|----------|----------|
+|Soy estudiante de la carrera de ingeniería de software en la UPC, me apasiona bastante los temas de aplicaciones web y móviles, de los lenguajes qué más utilizo, son java y angular para la mayor cantidad de mis proyectos, incluido en mi centro de labores, aunque igualmente tengo un interés bastante particular en python, el cual estoy empezando a aprender en estos momentos.| <img src="./assets/1.1.2.PerfilesDeIntegrantes/Sebastian.png" width="1000"/>|
+|||
+
+| Rodrigo Andrés López Takahashi |  |
+|----------|----------|
+|Soy estudiante de ingeniería de software de la universidad UPC. Me apasiona el game development. Se de las metodologias SCRUM, y de lenguajes de programación Java, C# y C++.| <img src="./assets/1.1.2.PerfilesDeIntegrantes/Rodrigo.png" width="1000"/>|
+|||
+
 ## 1.2. Solution Profile
 ---
 ### 1.2.1 Antecedentes y problemática
