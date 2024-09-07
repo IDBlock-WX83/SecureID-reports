@@ -29,7 +29,16 @@ Escalabilidad: Desarrollar un sistema adaptable que permita la expansión a otra
 #### 4.1.2.3. Constraints.
 ---
 ### 4.1.3. Architectural Drivers Backlog
----
+
+Los drivers mapeados para nuestra plataforma SecureID, basado en las historias de usuario(US) señaladas anteriormente son:
+
+| Driver ID     | Título de Driver  | Descripción | Importancia para Stakeholders (High, Medium, Low) | Impacto en Architecture Technical Complexity (High, Medium, Low) |
+|-----------|----------|--------|---------|------------|
+|ADB-01|Seguridad y Protección de Datos|Implementar medidas avanzadas de seguridad para proteger los datos personales y asegurar la inmutabilidad de la blockchain.|High|High|
+|ADB-02|Escalabilidad del Sistema|Asegurar que la plataforma pueda manejar un gran número de usuarios y transacciones sin comprometer el rendimiento.|High|High|
+|ADB-03|Sincronización de Datos Offline|Implementar un mecanismo que permita a los usuarios almacenar datos localmente cuando están offline y sincronizarlos con la blockchain cuando se restablezca la conexión.|High|Medium|
+|ADB-04|Integración con Sistemas Gubernamentales|Facilitar la integración con bases de datos gubernamentales para la verificación de identidades y otros servicios, permitiendo una mayor eficiencia.|High|High|
+
 ### 4.1.4. Architectural Design Decisions
 ---
 ### 4.1.5. Quality Attribute Scenario Refinements
