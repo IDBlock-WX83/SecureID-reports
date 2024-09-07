@@ -75,3 +75,26 @@
 
 ![leanuxcanvas](./assets/1.2.2.4LeanUXCanvas/LeanUXCanvas.jpg)
 
+---
+
+[EventStorming](https://miro.com/app/board/uXjVKjwtUkA=/?share_link_id=781413633439)
+
+![eventstorming](./assets/anexos/eventstormingidblock.png)
+
+---
+
+[Domain Message Flows Modeling](https://miro.com/app/board/uXjVM6QV_5Q=/?share_link_id=720006541665)
+
+![domainmessageflowsmodeling](./assets/anexos/domainmessageflowsmodeling.png)
+
+---
+
+[Bounded Context Canvases](https://miro.com/app/board/uXjVM6QV_5Q=/?share_link_id=391390025740)
+
+![boundedcontextcanvases](./assets/anexos/boundedcontextcanvases.png)
+
+---
+
+[Context Mapping](https://miro.com/app/board/uXjVKjwtUkA=/?share_link_id=864873335225)
+
+![contextmapping](./assets/anexos/boundedcontextcanvases.png)
