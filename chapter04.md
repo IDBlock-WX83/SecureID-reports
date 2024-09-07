@@ -69,7 +69,14 @@ Los drivers mapeados para nuestra plataforma SecureID, basado en las historias d
 |ADB-04|Integración con Sistemas Gubernamentales|Facilitar la integración con bases de datos gubernamentales para la verificación de identidades y otros servicios, permitiendo una mayor eficiencia.|High|High|
 
 ### 4.1.4. Architectural Design Decisions
----
+
+| Driver ID | Título de Driver  | Blockchain | Microservicios | Cliente-Servidor Tradicional |
+|-----------|----------|--------|---------|------------|
+|ADB-01|Seguridad y Protección de Datos|**PROS:** Alta seguridad, inmutabilidad, cifrado end-to-end. **CONTRA:** Complejidad en la implementación y en el cumplimiento regulatorio.|**PROS:** Modularidad, ya que cada servicio maneja su propia seguridad.**CONTRA:** Requiere una alta coordinación entre servicios para mantener seguridad global.|**PRO:** Sencillez en la implementación de medidas de seguridad. **CONTRA:** Menor robustez ante ataques o compromisos de un servidor.|
+|ADB-02|Escalabilidad del Sistema|**PROS:** Escalabilidad casi infinita a medida que crece la red. **CONTRA:** Latencia en las transacciones por la validación distribuida.|**PROS:** Escalabilidad granular, cada servicio puede escalar por separado. **CONTRA:** Puede haber sobrecarga de comunicación y complejidad en la coordinacion.|**PROS:** Sencillo de gestionar en pequeñas escalas. **CONTRA:** Difícil escalar para manejar grandes volúmenes de usuarios o transacciones.|
+|ADB-03|Sincronización de Datos Offline|**PROS:** Inmutabilidad y consistencia aseguradas cuando se sincronizan los datos. **CONTRA:** Complejidad en la implementación de mecanismos de sincronización offline.|**PROS:** Flexibilidad en la implementación de sincronización. **CONTRA:** Puede generar inconsistencias si los servicios no están bien coordinados.|**PROS:** Fácil de implementar la sincronización local.**CONTRA:**La lógica de sincronización es menos robusta y difícil de manejar en escenarios de desconexión prolongada.|
+|ADB-04|Integración con Sistemas Gubernamentales|**PROS:** Provee trazabilidad y transparencia completa a las autoridades. **CONTRA:** Dificultades para que las instituciones adopten la tecnología blockchain.|**PROS:** Integración ágil con sistemas externos mediante APIs. **CONTRA:** La coordinacion de muchos servicios puede complicar la integración en tiempo real.|**PROS:** Fácil implementación inicial con sistemas externos.**CONTRA:**Menor flexibilidad y escalabilidad en la integración a gran escala.|
+
 ### 4.1.5. Quality Attribute Scenario Refinements
 ---
 ## 4.2. Strategic-Level Domain-Driven Design
