@@ -98,3 +98,9 @@
 [Context Mapping](https://miro.com/app/board/uXjVKjwtUkA=/?share_link_id=864873335225)
 
 ![contextmapping](./assets/anexos/boundedcontextcanvases.png)
+
+---
+
+[Registro de Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EdFBEmWyZMNNvyPcjHQ5mlIBomxvcuanNdfn_DJd41cYSQ?e=Rhbwcd)
+
+![registrodeentrevistas](./assets/anexos/registrodeentrevistas.png)
