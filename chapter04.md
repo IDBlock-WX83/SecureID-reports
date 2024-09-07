@@ -173,6 +173,9 @@ Enlace a Miro: [SecureID_Context_Mapping](https://miro.com/app/board/uXjVKjwtUkA
 
 ### 4.3.2. Software Architecture Context Level Diagrams
 ---
+
+![Context Diagram](assets/chapter04/4.3.2/Context_Level_Diagram.png)
+
 ### 4.3.3. Software Architecture Container Level Diagrams
 ---
 ### 4.3.4. Software Architecture Deployment Diagrams
