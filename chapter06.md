@@ -328,3 +328,7 @@ Se presentará una vista preliminar del sitio web, detallando el contenido por s
 ![image](https://github.com/user-attachments/assets/3c9ed904-6b8d-4ad1-9f1e-a3941086c297)
 
 ## 6.5. Applications Prototyping
+
+![](./assets/6.5.ApplicationsPrototyping/Prototyping.png)
+
+### Link: https://www.figma.com/proto/66fO5Iskayzuy5JR6wPjyu/Wireframes?page-id=18%3A12&node-id=18-14&node-type=canvas&viewport=738%2C446%2C0.13&t=Fe5wxQeIqH68WpkW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A14 
