@@ -73,6 +73,29 @@ Nuestro logo no es solo una imagen; es la representación visual de nuestra esen
 ---
 ### 6.1.2. Web, Mobile & Devices Style Guidelines
 
+**Estándares Visuales**
+- Paleta de colores: La paleta de colores establece los tonos que se emplearán en todas las interfaces:
+    - Verde oscuro (#00747C).
+    - Turquesa (#00BBC9).
+    - Gris claro (#CACACA).
+    - Gris medio (#878787).
+    - Gris oscuro (#202022).
+-   Tipografía: Las fuentes seleccionadas aseguran legibilidad en todos los tamaños de pantalla:
+    - Encabezados: Roboto, Semi-Bold (600).
+    - Texto corporal: Lato, Regular (400) y Light (300).
+- Imágenes: Todas las imágenes deben ser de alta calidad y pertinentes al contenido de la interfaz, preferiblemente con licencia o de propiedad propia.
+
+**Espaciado**
+- Composiciones: Las interfaces deben ser limpias, organizadas y fáciles de navegar. Guías de espaciado:
+    - Margen y relleno: Mínimo de 15px alrededor de los elementos.
+    - Separación entre elementos: 10px entre elementos relacionados y 20px entre secciones o elementos distintos.
+
+**Estándares de Interacción**
+- Diseño adaptable: Las interfaces deben ser responsivas y ajustarse a diferentes dispositivos, desde computadoras de escritorio hasta móviles.
+- Interacciones táctiles: Los elementos interactivos deben estar diseñados para ser utilizados fácilmente con los dedos, con botones de tamaño adecuado para facilitar su pulsación.
+- Accesibilidad: Las interfaces deben ser accesibles para usuarios con diversas discapacidades, aplicando técnicas como el alto contraste y texto alternativo para garantizar accesibilidad en todos los contextos.
+
+---
 ## 6.2. Information Architecture
 
 ### 6.2.2. Labeling Systems
