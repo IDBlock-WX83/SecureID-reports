@@ -224,11 +224,63 @@ Sistema de Navegación: En el menú principal de la aplicación, los usuarios pu
 
 ---
 ## 6.3. Landing Page UI Design
-
+---
 ### 6.3.1. Landing Page Wireframe
+---
 
+En esta sección se presentará el diseño del sitio web de nuestro software, proporcionando una visión clara del contenido que aparecerá en la plataforma. La landing page está optimizada para pantallas de ordenadores, con la información centrada para asegurar una fácil visualización. Además, cuenta con una barra de navegación que mejora la experiencia del usuario, facilitando el acceso a las distintas secciones del sitio.
+
+- Menú principal de la plataforma: Opciones de navegación
+
+![](./assets/6.3.LandingPageUIDesign/landing-part1.png)
+
+---
+- About SecureID: Es una sección del menú principal
+
+![](./assets/6.3.LandingPageUIDesign/landing-part2.png)
+
+---
+- About Us: Es una sección del menú principal
+
+![](./assets/6.3.LandingPageUIDesign/landing-part3.png)
+
+---
+- Opinions: Es una sección del menú principal
+
+![](./assets/6.3.LandingPageUIDesign/landing-part4.png)
+
+---
+- Contact: Es una sección del menú principal
+
+![](./assets/6.3.LandingPageUIDesign/landing-part5.png)
+
+---
+- Footer:
+
+![](./assets/6.3.LandingPageUIDesign/landing-part6.png)
+
+---
+
+> Enlace del Figma del Landing Page: https://www.figma.com/design/wW9tsqZq7kXYhC3lryzsVY/Landing-Page-UI-Desing?node-id=0-1&t=sRN4Ch23zqnpKlm3-1 
+
+---
 ### 6.3.2. Landing Page Mock-up
+---
 
+Se presentará una vista preliminar del sitio web, detallando el contenido por secciones, los colores, estilos e imágenes, todos alineados con el propósito del sitio para ofrecer al usuario una experiencia más fluida y comprensible sobre el objetivo del mismo.
+
+- Elementos Clave
+    - Principios de diseño: Se aplicaron principios clave como jerarquía, equilibrio, contraste, repetición y ritmo para crear una página atractiva, fácil de usar y funcional.
+    - Elementos de diseño: Se emplearon diversos elementos como tipografía, colores, imágenes e iconos para generar un diseño visualmente atractivo y coherente.
+    - Diseño inclusivo: Se consideraron principios de diseño inclusivo para asegurar que la página sea accesible para todos los usuarios, garantizando una experiencia equitativa.
+
+![](./assets/6.3.LandingPageUIDesign/landing-page.png)
+
+---
+
+> Enlace del Landing Page Desplegado: https://idblock-wx83.github.io/landing-page/ 
+
+---
 ## 6.4. Applications UX/UI Design
 
 ### 6.4.1. Applications Wireframes
