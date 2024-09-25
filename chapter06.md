@@ -1,7 +1,10 @@
 # Capítulo VI: Solution UX Design
+---
 
 ## 6.1. Style Guidelines
+En este apartado, establecemos las directrices fundamentales para garantizar la uniformidad y solidez de la marca SecureID en sus representaciones visuales y comunicacionales. Mantener la coherencia en la aplicación de estos elementos refuerza nuestra identidad de marca y facilita su reconocimiento inmediato por parte de clientes y partes interesadas.
 
+---
 ### 6.1.1. General Style Guidelines
 
 ### 6.1.2. Web, Mobile & Devices Style Guidelines
