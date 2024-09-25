@@ -27,20 +27,20 @@
 ### 6.4.1. Applications Wireframes
 
 
-![alt text](assets/capitulo6/wireframe.png)
+![alt text](./assets/capitulo6/wireframe.png)
 
-![alt text](assets/capitulo6/wireframe1.png)
+![alt text](./assets/capitulo6/wireframe1.png)
 
-![alt text](assets/capitulo6/wireframe2.png)
+![alt text](./assets/capitulo6/wireframe2.png)
 
-![alt text](assets/capitulo6/wireframe3.png)
+![alt text](./assets/capitulo6/wireframe3.png)
 ### 6.4.2. Applications Wireflow Diagrams
 
-![alt text](assets/capitulo6/flows1.png)
+![alt text](./assets/capitulo6/flows1.png)
 
-![alt text](assets/capitulo6/flows2.png)
+![alt text](./assets/capitulo6/flows2.png)
 
-![alt text](assets/capitulo6/flows3.png)
+![alt text](./assets/capitulo6/flows3.png)
 
 ### 6.4.3. Applications Mock-ups
 
