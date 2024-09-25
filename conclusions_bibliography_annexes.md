@@ -4,12 +4,18 @@
 - El curso ha demostrado cómo la implementación de procesos de Lean UX, como la formulación de hipótesis, afirmaciones y el uso de Lean UX Canvas, mejora significativamente la comprensión y el desarrollo de soluciones software alineadas con las necesidades reales de los usuarios. Esta integración asegura que los proyectos de software no solo sean técnicamente viables, sino también altamente centrados en el usuario, lo cual es crucial para el éxito comercial de las startups.
 - A través de diversas técnicas como entrevistas, análisis competitivo y needfinding, el curso ha equipado a los estudiantes con habilidades esenciales para extraer, analizar y documentar requisitos de manera exhaustiva. Este enfoque sistemático asegura que los estudiantes puedan identificar y priorizar necesidades del usuario final de forma efectiva, un paso fundamental en la creación de software que responde precisamente a los problemas del mercado.
 - l curso ha cubierto aspectos avanzados de diseño estratégico y arquitectura de software, incluyendo Domain-Driven Design y Attribute-Driven Design, proporcionando a los estudiantes las competencias para tomar decisiones arquitectónicas informadas que impactan positivamente la calidad y sostenibilidad del software. Estas habilidades son vitales para desarrollar soluciones que sean escalables, mantenibles y seguras.
+- La organización en capas, desde el nivel táctico hasta el de diseño UX, refleja una arquitectura de software robusta que facilita la separación de responsabilidades. Cada capa tiene un propósito claro, lo que contribuye a una mayor mantenibilidad y escalabilidad del sistema.
+-  El capítulo de diseño UX resalta la importancia de la experiencia del usuario, lo que sugiere que la entrega no solo se enfoca en la funcionalidad del sistema, sino también en cómo los usuarios interactuarán con él, garantizando usabilidad y accesibilidad.
+- La inclusión de diagramas a nivel de componentes y base de datos sugiere que se ha trabajado en una documentación técnica detallada, lo que es esencial para el mantenimiento y la continuidad del proyecto.
 
 ---
 **Recomendaciones**
 - Sería beneficioso implementar más proyectos grupales que requieran colaboración entre estudiantes de diferentes disciplinas técnicas y de diseño. Esto podría mejorar la aplicación práctica de los principios de Lean UX y Domain-Driven Design, preparando a los estudiantes para los desafíos del entorno laboral real donde el trabajo en equipo interdisciplinar es común.
 - Para mantener la relevancia del curso, sería recomendable actualizar continuamente el currículo con estudios de caso recientes que reflejen las últimas tendencias y desafíos en la industria del software. Esto podría incluir más contenido sobre tecnologías emergentes y cómo estas están siendo integradas en las arquitecturas de software modernas.
 - Aunque el curso maneja intensivamente aspectos técnicos, agregar un módulo que desarrolle habilidades blandas, como la gestión de proyectos y la comunicación efectiva, podría ser muy valioso. Estas habilidades son esenciales para manejar equipos, presentar ideas y liderar proyectos dentro de empresas tecnológicas y startups.
+- Asegúrate de que los diagramas, tanto de la arquitectura de software como de UX, se actualicen continuamente durante el desarrollo, ya que podrían surgir cambios que impacten la estructura inicialmente planteada.
+- Implementar pruebas de usabilidad tempranas en el proceso de diseño de UX ayudará a identificar posibles problemas de interacción antes de que se conviertan en un obstáculo durante el desarrollo o despliegue del sistema.
+- Fomentar una colaboración estrecha entre los equipos de desarrollo, diseño UX y arquitectura para asegurar que las decisiones tomadas en una capa no afecten negativamente el rendimiento o la experiencia de usuario del sistema final.
 
 ---
 **Bibliografía**
@@ -110,3 +116,30 @@
 [Video de exposición TB1](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c186_upc_edu_pe/EgSXpnD5IhFPpEiI0nct0XYBosu1bOh_ZrYg318WLZqdog?e=DPihWg)
 
 ![videodeexposicióntb1](./assets/anexos/videodeexposicióntb1.png)
+
+- **TP1**
+
+---
+
+[Landing Page - Wireframes - Mock-ups](https://www.figma.com/design/wW9tsqZq7kXYhC3lryzsVY/Landing-Page-UI-Desing?node-id=0-1&t=C3wwrKhCw9JGU2Vj-1)
+
+![landingpage](./assets/anexos/figmalandingpage.png)
+
+---
+
+[Landing Page Desplegado](https://idblock-wx83.github.io/landing-page/)
+
+![landingpagedesplegado](./assets/anexos/landingpage.png)
+
+---
+
+[App Mobile - Wireframes - Mock-ups](https://www.figma.com/design/66fO5Iskayzuy5JR6wPjyu/Wireframes?node-id=18-12&t=Zco6JaYDhpdq4iat-1)
+
+![appmobile](./assets/anexos/figmaappmobile.png)
+
+---
+
+[Video de exposición TP1](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c186_upc_edu_pe/EgSXpnD5IhFPpEiI0nct0XYBosu1bOh_ZrYg318WLZqdog?e=DPihWg)
+
+![videodeexposicióntp1](./assets/anexos/videodeexposicióntb1.png)
+
