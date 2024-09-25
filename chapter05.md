@@ -133,17 +133,17 @@ ProfileHistoryRepository
 
 ### 5.1.6. Bounded Context Software Architecture Component Level Diagrams
 
-![](assets/chapter5/1/1_architecture.png)
+![](./assets/chapter5/1/1_architecture.png)
 
 ### 5.1.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.1.7.1. Bounded Context Domain Layer Class Diagrams
 
-![](assets/chapter5/1/1_class.png)
+![](./assets/chapter5/1/1_class.png)
 
 #### 5.1.7.2. Bounded Context Database Design Diagram
 
-![](assets/chapter5/1/1_database.png)
+![](./assets/chapter5/1/1_database.png)
 
 ## 5.2. Bounded Context: Identity Verification
 
@@ -238,17 +238,17 @@ Attributes
 
 ### 5.2.6. Bounded Context Software Architecture Component Level Diagrams
 
-![](assets/chapter5/2/2_architecture.png)
+![](./assets/chapter5/2/2_architecture.png)
 
 ### 5.2.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.2.7.1. Bounded Context Domain Layer Class Diagrams
 
-![](assets/chapter5/2/2_class.png)
+![](./assets/chapter5/2/2_class.png)
 
 #### 5.2.7.2. Bounded Context Database Design Diagram
 
-![](assets/chapter5/2/2_database.png)
+![](./assets/chapter5/2/2_database.png)
 
 
 ## 5.3. Bounded Context: Service Access Management
@@ -343,17 +343,17 @@ Attributes
 
 ### 5.3.6. Bounded Context Software Architecture Component Level Diagrams
 
-![](assets/chapter5/3/3_architecture.png)
+![](./assets/chapter5/3/3_architecture.png)
 
 ### 5.3.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.3.7.1. Bounded Context Domain Layer Class Diagrams
 
-![](assets/chapter5/3/3_class.png)
+![](./assets/chapter5/3/3_class.png)
 
 #### 5.3.7.2. Bounded Context Database Design Diagram
 
-![](assets/chapter5/3/3_database.png)
+![](./assets/chapter5/3/3_database.png)
 
 
 ## 5.4. Bounded Context: Audit and Security Context
@@ -423,17 +423,17 @@ Attributes
 
 ### 5.4.6. Bounded Context Software Architecture Component Level Diagrams
 
-![](assets/chapter5/4/4_architecture.png)
+![](./assets/chapter5/4/4_architecture.png)
 
 ### 5.4.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.4.7.1. Bounded Context Domain Layer Class Diagrams
 
-![](assets/chapter5/4/4_class.png)
+![](./assets/chapter5/4/4_class.png)
 
 #### 5.4.7.2. Bounded Context Database Design Diagram
 
-![](assets/chapter5/4/4_database.png)
+![](./assets/chapter5/4/4_database.png)
 
 ## 5.5. Bounded Context: Government Integration Context
 
@@ -481,17 +481,17 @@ Attributes
 
 ### 5.5.6. Bounded Context Software Architecture Component Level Diagrams
 
-![](assets/chapter5/5/5_architecture.png)
+![](./assets/chapter5/5/5_architecture.png)
 
 ### 5.5.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.5.7.1. Bounded Context Domain Layer Class Diagrams
 
-![](assets/chapter5/5/5_class.png)
+![](./assets/chapter5/5/5_class.png)
 
 #### 5.5.7.2. Bounded Context Database Design Diagram
 
-![](assets/chapter5/5/5_database.png)
+![](./assets/chapter5/5/5_database.png)
 
 ## 5.6. Bounded Context: Blockchain Management Context
 
@@ -534,14 +534,14 @@ Attributes
 
 ### 5.6.6. Bounded Context Software Architecture Component Level Diagrams
 
-![](assets/chapter5/6/6_architecture.png)
+![](./assets/chapter5/6/6_architecture.png)
 
 ### 5.6.7. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.6.7.1. Bounded Context Domain Layer Class Diagrams
 
-![](assets/chapter5/6/6_class.png)
+![](./assets/chapter5/6/6_class.png)
 
 #### 5.6.7.2. Bounded Context Database Design Diagram
 
-![](assets/chapter5/6/6_database.png)
+![](./assets/chapter5/6/6_database.png)
