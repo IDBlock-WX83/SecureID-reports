@@ -369,7 +369,7 @@ Attributes
 
 
 
-<table> <tr> <td colspan="2">Nombre:</td> <td colspan="2">AuditRepository</td> </tr> <tr> <td colspan="2">Categoría:</td> <td colspan="2">Repository</td> </tr> <tr> <td colspan="2">Propósito:</td> <td colspan="2">Proporcionar métodos para acceder y almacenar logs de auditoría en la base de datos.</td> </tr> <tr> <td colspan="4" style="text-align: center; font-weight: bold;">Atributos</td> </tr> <tr> <td colspan="4">N/A</td> </tr> <tr> <td colspan="4" style="text-align: center; font-weight: bold;">Métodos</td> </tr> <tr> <td>saveLog</td> <td>void</td> <td>Pública</td> <td>Guarda un log de auditoría en el repositorio.</td> </tr> <tr> <td>getLogs</td> <td>List&lt;AuditLog&gt;</td> <td>Pública</td> <td>Obtiene todos los logs de auditoría almacenados.</td> </tr> </table>
+<table> <tr> <td colspan="2">Nombre:</td> <td colspan="2">AuditRepository</td> </tr> <tr> <td colspan="2">Categoría:</td> <td colspan="2">Repository</td> </tr> <tr> <td colspan="2">Propósito:</td> <td colspan="2">Proporcionar métodos para acceder y almacenar logs de auditoría en la base de datos.</td> </tr> <tr> <td colspan="4" style="text-align: center; font-weight: bold;">Métodos</td> </tr> <tr> <td>saveLog</td> <td>void</td> <td>Pública</td> <td>Guarda un log de auditoría en el repositorio.</td> </tr> <tr> <td>getLogs</td> <td>List&lt;AuditLog&gt;</td> <td>Pública</td> <td>Obtiene todos los logs de auditoría almacenados.</td> </tr> </table>
 
 ### 5.4.2. Interface Layer
 
