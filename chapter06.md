@@ -325,5 +325,6 @@ Se presentará una vista preliminar del sitio web, detallando el contenido por s
 ![image](https://github.com/user-attachments/assets/e4bd532c-3a7a-45c5-b224-27bb327d32d0)
 
 ### 6.4.4. Applications User Flow Diagrams
+![image](https://github.com/user-attachments/assets/3c9ed904-6b8d-4ad1-9f1e-a3941086c297)
 
 ## 6.5. Applications Prototyping
