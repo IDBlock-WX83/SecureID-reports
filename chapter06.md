@@ -33,3 +33,4 @@
 ### 6.4.4. Applications User Flow Diagrams
 
 ## 6.5. Applications Prototyping
+### Link: https://www.figma.com/proto/66fO5Iskayzuy5JR6wPjyu/Wireframes?page-id=18%3A12&node-id=18-14&node-type=canvas&viewport=738%2C446%2C0.13&t=Fe5wxQeIqH68WpkW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A14 
