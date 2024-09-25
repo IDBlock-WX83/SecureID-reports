@@ -31,5 +31,6 @@
 ### 6.4.3. Applications Mock-ups
 
 ### 6.4.4. Applications User Flow Diagrams
+![image](https://github.com/user-attachments/assets/3c9ed904-6b8d-4ad1-9f1e-a3941086c297)
 
 ## 6.5. Applications Prototyping
