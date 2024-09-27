@@ -4,7 +4,7 @@
 ### Ingeniería de Software
 .
 # SecureID
-### TB1 REPORT - IDBlock
+### TP1 REPORT - IDBlock
 ================================
 #### Team members
 - Pastrana León, Aldo Francisco (U20211C186)
