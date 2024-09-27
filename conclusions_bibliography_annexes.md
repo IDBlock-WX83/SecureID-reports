@@ -139,7 +139,7 @@
 
 ---
 
-[Video de exposición TP1](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c186_upc_edu_pe/EgSXpnD5IhFPpEiI0nct0XYBosu1bOh_ZrYg318WLZqdog?e=DPihWg)
+[Video de exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EUA1kyu5qQ1OqkzFc_w6NwgBlyfluHGEn_jfDzwYx6fymA?e=V0HVaw)
 
-![videodeexposicióntp1](./assets/anexos/videodeexposicióntb1.png)
+![videodeexposicióntp1](./assets/anexos/videotp1.png)
 
