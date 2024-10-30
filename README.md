@@ -23,6 +23,7 @@
 | **v1.2** | 04-09-2024 | IDBlock | Para esta versión, hemos procedido a actualizar los user persona centrándonos en los resultados de nuestras entrevistas. Además, el equipo llevó a cabo una sesión de "event storming" con el fin de definir el dominio y los contextos acotados de nuestra solución. |
 | **v1.3** | 25-09-2024 | IDBlock | Para esta versión, hemos desarrollado la arquitectura de software utilizando diagramas de contexto y contenedores. Además, hemos llevado a cabo una exhaustiva verificación de errores y hemos actualizado puntos previamente identificados. |
 | **v2.1** | 25-09-2024 | IDBlock | Para esta versión, hemos realizado correciones en puntos como el Lean UX, entrevistas y EventStorming guiándonos del feedback que nos dió el profesor. Además, hemos verificado y corregido diversos errores. |
+| **v2.2** | 30-10-2024 | IDBlock | Para esta versión, hemos desarrollado la Landing Page y una versión inicial de nuestra Aplicación Móvil. También, realizamos el primer sprint junto al despliegue de la Landing Page y la Aplicación Móvil. |
 
 ---
 # Project Report Collaboration Insights
@@ -37,6 +38,8 @@ TB1: El equipo ha abordado con éxito los puntos requeridos para la entrega soli
 
 TP: En el marco de la segunda entrega, el equipo ha consolidado una mayor destreza en la elaboración del informe mediante el uso de Markdown, capitalizando la versatilidad de esta interfaz para integrar código HTML. Nos complace informar que hemos cumplido de manera integral con los puntos requeridos en el entregable. Además, es importante destacar que se ha registrado un progreso sustancial tanto en la optimización de la página de inicio como en el desarrollo de la aplicación web.
 
+TB2: Para la tercera entrega (TB2), el equipo priorizó el desarrollo de la aplicación móvil y, logrando completar gran parte de ambos. El desarrollo del frontend móvil se realizó utilizando Flutter. En cuanto a la documentación, se llevó a cabo el Sprint 1, considerando las historias de usuario que se ajustaban al desarrollo del frontend móvil.
+
 > Analíticos para el TB1
 
 ![](./assets/ProjectReportCollaborationInsights/Analiticos_tb1.png)
@@ -44,6 +47,10 @@ TP: En el marco de la segunda entrega, el equipo ha consolidado una mayor destre
 > Analíticos para el TP1
 
 ![](./assets/ProjectReportCollaborationInsights/PRCTP1.png)
+
+> Analíticos para el TB2
+
+![](./assets/ProjectReportCollaborationInsights/Analiticos_tb2.png)
 
 ---
 # Contenido
@@ -173,7 +180,23 @@ TP: En el marco de la segunda entrega, el equipo ha consolidado una mayor destre
     - [6.4.3. Applications Mock-ups](/chapter06.md#543-applications-mock-ups)
     - [6.4.4. Applications User Flow Diagrams](/chapter06.md#544-applications-user-flow-diagrams)
   - [6.5. Applications Prototyping](/chapter06.md#55-applications-prototyping)
-
+- [Capítulo VII: Product Implementation, Validation & Deployment](/chapter06.md#capítulo-v-solution-uiux-design)
+  - [7.1. Software Configuration Management](/chapter06.md#51-style-guidelines)
+    - [7.1.1. Software Development Environment Configuration](/chapter06.md#511-general-style-guidelines)
+    - [7.1.2. Source Code Management](/chapter06.md#512-web-mobile-and-iot-style-guidelines)
+    - [7.1.3. Source Code Style Guide & Conventions](/chapter06.md#512-web-mobile-and-iot-style-guidelines)   
+    - [7.1.4. Software Deployment Configuration](/chapter06.md#512-web-mobile-and-iot-style-guidelines)     
+  - [7.2. Solution Implementation](/chapter06.md#52-information-architecture)
+    - [7.2.1. Sprint 1](/chapter06.md#521-organization-systems)
+        - [7.2.1.1. Sprint Planning 1](/chapter05.md#42561-bounded-context-domain-layer-class-diagrams)   
+        - [7.2.1.2. Sprint Backlog 1](/chapter05.md#42561-bounded-context-domain-layer-class-diagrams)
+        - [7.2.1.3. Development Evidence for Sprint Review](/chapter05.md#42561-bounded-context-domain-layer-class-diagrams)
+        - [7.2.1.4. Testing Suite Evidence for Sprint Review](/chapter05.md#42561-bounded-context-domain-layer-class-diagrams)
+        - [7.2.1.5. Execution Evidence for Sprint Review](/chapter05.md#42561-bounded-context-domain-layer-class-diagrams)
+        - [7.2.1.6. Services Documentation Evidence for Sprint Review](/chapter05.md#42561-bounded-context-domain-layer-class-diagrams)
+        - [7.2.1.7. Software Deployment Evidence for Sprint Review](/chapter05.md#42561-bounded-context-domain-layer-class-diagrams)
+        - [7.2.1.8. Team Collaboration Insights during Sprint](/chapter05.md#42561-bounded-context-domain-layer-class-diagrams) 
+        
 ---
 
 # Student Outcome
