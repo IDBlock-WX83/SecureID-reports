@@ -126,7 +126,7 @@ Los sistemas de etiquetado se emplean para transmitir información al usuario, p
 ---
 > Documento de Identidad: muestra los datos personales del usuario.
 
-![](./assets/6.2.InformationArchitecture/Share.png)
+![](./assets/6.2.InformationArchitecture/Identidad.png)
 
 ---
 > Imagen de Documentos: muestra una representación visual del documento del usuario.
