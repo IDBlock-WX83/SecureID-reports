@@ -278,7 +278,7 @@ Se presentará una vista preliminar del sitio web, detallando el contenido por s
 
 ---
 
-> Enlace del Landing Page Desplegado: https://idblock-wx83.github.io/landing-page/ 
+> Enlace del Landing Page Desplegado: https://secureid.netlify.app/index.html
 
 ---
 ## 6.4. Applications UX/UI Design

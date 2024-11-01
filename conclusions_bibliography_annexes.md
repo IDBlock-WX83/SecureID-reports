@@ -127,7 +127,7 @@
 
 ---
 
-[Landing Page Desplegado](https://idblock-wx83.github.io/landing-page/)
+[Landing Page Desplegado](https://secureid.netlify.app/index.html)
 
 ![landingpagedesplegado](./assets/anexos/landingpage.png)
 
@@ -143,3 +143,16 @@
 
 ![videodeexposicióntp1](./assets/anexos/videotp1.png)
 
+- **TB2**
+
+---
+
+[Landing Page GitHub](https://github.com/IDBlock-WX83/SecureID-reports)
+
+![landingpage](./assets/anexos/landingpagegithub.png)
+
+---
+
+[Mobile Application GitHub](https://github.com/IDBlock-WX83/SecureID-reports)
+
+![mobileapplication](./assets/anexos/mobileapplication.png)
