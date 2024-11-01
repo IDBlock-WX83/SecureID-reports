@@ -216,24 +216,185 @@ Para el despliegue del Web Service, se utilizará la plataforma Railway. A conti
 ### 7.2.1. Sprint 1
 #### 7.2.1.1. Sprint Planning 1
 ---
+| Sprint#        | Sprint 1                      |
+|----------------|-------------------------------|
+| **Sprint Planning Background** |   |
+| Date           | 01/11/2024                    |
+| Time           | 11:00 pm                      |
+| Location       | Google meet                   |
+| Prepared By    | Aldo Pastrana |
+| Attendees (to planning meeting) | Aldo Pastrana / Anderson Ore / Max Sabino / Sebastian Hernandez / Rodrigo López |
+| **Sprint n-1 Review Summary** | Este es el primer sprint, no hay reviews anteriores. |
+| **Sprint n-1 Retrospective Summary** | El equipo usará HTML, CSS y JavaScript para el desarrollo del Landing Page y Flutter para el desarrollo de la Aplicación Móvil |
+| **Sprint Goal & User Stories** |   |
+| Sprint n Goal  | Realizar el desarrollo del Landing Page y Aplicación Móvil |
+| Sprint n Velocity | 7 |
+| Sum of story Points | 24 |
 
 #### 7.2.1.2. Sprint Backlog 1
 ---
+<table>
+    <tr>
+        <th colspan="1">Sprint #</th>
+        <th colspan="5">Sprint n</th>
+    </tr>
+    <tr>
+     <th colspan="2">User Story</th>
+        <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned To</td>
+        <td>Status (To-do / In-Process / To-Review Done)</td>
+    </tr>
+    <tr>
+        <td>US17</td>
+        <td>Visualización de la Propuesta de Valor</td>
+        <td>TK01</td>
+        <td>Visualización de la Propuesta de Valor</td>
+        <td>Como visitante de la landing page, quiero entender rápidamente la propuesta de valor de
+SecureID para saber cómo esta plataforma puede ayudarme a obtener una identificación
+digital segura.</td>
+        <td>1</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US18</td>
+        <td>Información sobre los Beneficios de SecureID</td>
+        <td>TK01</td>
+        <td>Información sobre los Beneficios de SecureID</td>
+        <td>Como residente de una zona rural, quiero conocer los beneficios de usar SecureID para
+entender cómo puede mejorar mi acceso a servicios esenciales.</td>
+        <td>1</td>
+        <td>Anderson Ore</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US19</td>
+        <td>Información sobre Integración con Sistemas Gubernamentales</td>
+        <td>TK01</td>
+        <td>Información sobre Integración con Sistemas Gubernamentales</td>
+        <td>Como autoridad local, quiero ver información sobre cómo SecureID se integra con los
+sistemas gubernamentales para asegurarme de que puede ser implementado fácilmente
+en mi comunidad.</td>
+        <td>1</td>
+        <td>Max Sabino</td>
+        <td>Donei</td>
+    </tr>
+    <tr>
+        <td>US20</td>
+        <td>Acceso a Recursos Educativos</td>
+        <td>TK01</td>
+        <td>Acceso a Recursos Educativos</td>
+        <td>Como residente de una zona rural, quiero acceder a recursos educativos en la plataforma
+SecureID para aprender a utilizarla de manera efectiva.</td>
+        <td>1</td>
+        <td>Sebastian Hernandez</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US21</td>
+        <td>Llamado a la Acción para Registro</td>
+        <td>TK01</td>
+        <td>Llamado a la Acción para Registro</td>
+        <td>Como visitante de la landing page, quiero ver un claro llamado a la acción para
+registrarme en SecureID y comenzar a utilizar la plataforma.</td>
+        <td>1</td>
+        <td>Rodrigo López</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US22</td>
+        <td>Optimización para Dispositivos Móviles</td>
+        <td>TK01</td>
+        <td>Optimización para Dispositivos Móviles</td>
+        <td>Como visitante de la landing page, quiero que la página esté optimizada para dispositivos
+móviles para poder navegarla cómodamente desde mi teléfono o tableta.</td>
+        <td>2</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+</table>
 
 #### 7.2.1.3. Development Evidence for Sprint Review
 ---
+| Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body                                  | Committed on (Date) |
+|---------------------|-------------------|-----------|--------------------------|------------------------------------------------------|---------------------|
+| https://github.com/LosChiferos-WS71/ztech-landing-page | main | 9a3460fa33188d95b895d02750e9eaac699cc935  | Add Header | Agregar encabezado | 03/05/2024         |
+| https://github.com/LosChiferos-WS71/ztech-landing-page | main | bc30f54238c06628c35569697a521f64fbbfe1e0  | add animate | Agregar animaciones | 03/05/2024         |
+| https://github.com/LosChiferos-WS71/ztech-landing-page | main | e065ce648fffc8be412374ecf393eca544858b4d  | feat(add): Update Jquery.min.js | Agregar el Jquery | 03/05/2024         |
+| https://github.com/LosChiferos-WS71/ztech-landing-page | main | 76d259212937a87422d07849bc48113e12aa74b5  | Add Main JavaScript | Agregar el main de JavaScript | 03/05/2024         |
+| https://github.com/LosChiferos-WS71/ztech-landing-page | main | 568c2a6294696bd95fece6725f07e3f1e2dee815  | update text to english | Actualizar texto a ingles | 03/05/2024         |
+| https://github.com/LosChiferos-WS71/ztech-web-application | main | bf09cbdeb2e922b3fda8b3ac3d78e602e746d96c  | feat: Add project basis | Agregar proyecto basse | 03/05/2024         |
+| https://github.com/LosChiferos-WS71/ztech-web-application | main | e63f61ebded0c7abfa3c3fdd2b47a010f4c9fe4a  | add register view | Agregar vista de registro | 03/05/2024         |
+| https://github.com/LosChiferos-WS71/ztech-web-application | main | 3acc2160e49f47adfd010fad6ff8125fa4afdf83  | Add Application Web | Agregar vista de login | 03/05/2024         |
+| https://github.com/LosChiferos-WS71/ztech-web-application | main | 90f78a2b77cbca2ccb9507e72a80e4f926751591  | feat(add): Add component home without css | Agregar component home con CSS | 03/05/2024         |
+| https://github.com/LosChiferos-WS71/ztech-web-application | main | 31c2c0791d2a0cfc0ccbb0dfa62dcb7b5232460a  | add register styles | Agregar estilos de la vista registro | 03/05/2024         |
 
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review
 ---
+Para esta entrega no se ha presentado un backend funcional, se presento un fake API, por lo que los unit tests, integration tests y acceptance tests automaizados, para
+web services relacionados con los user stories no realizara en esta entrega.
 
 #### 7.2.1.5. Execution Evidence for Sprint Review
 ---
+> Se realizó el landing page enfocado a nuestra propuesta como startup, evidenciando nuestro compromiso como equipo. 
+Las tareas a realizar en cada sprint para la elaboración del landing page fueron:
+- Planteamiento y desarrollo sobre nuestros componentes de estrategia empresarial como lo que es la presentacion de las ofertas y ventajas del servicio de SecureID.
+-  Ofrecemos una descripción general del servicio, luego detallamos las características específicas del producto, y finalmente presentamos testimonios y un formulario de contacto.
+- Presentamos información en secciones bien definidas lo cual facilita la navegación del usuario por áreas de interés específicas.
 
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review
 ---
+La landing page y aplicación móvil de nuestro proyecto se desarrollaron utilizando el sistema de control de versiones de Git, lo cual se puede verificar en el repositorio correspondiente del proyecto respectivamente: https://github.com/IDBlock-WX83/landing-page https://github.com/IDBlock-WX83/SecureID-mobile-application 
+
+- Por otro lado, utilizamos HTML, CSS, JavaScript para realizar la página de nuestro landing page.
+
+![](./assets/7.2.1.6.ServicesDocumentationEvidenceforSprintReview/landingpage.png)
+
+- Asimismo, utilizamos Flutter para realizar las interfaces de nuestra aplicación móvil.
+
+![](./assets/7.2.1.6.ServicesDocumentationEvidenceforSprintReview/mobile.png)
 
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review
 ---
+En este Sprint, se ha completado el despliegue de la landing page. Esto ha implicado la creación de cuentas, la configuración de recursos en proveedores de nube y la configuración de proyectos de desarrollo para la integración.
+
+Hemos seguido los mismos pasos para los dos despliegues.
+
+1. Crear una cuenta en Netlify:
+Acceder a https://www.netlify.com/ y nos creamos una cuenta
+
+<img src="./assets/7.2.1.7.SoftwareDeploymentEvidenceforSprintReview/netlifylogin.png" width="700"/>|
+
+2. Conectar Netlify con el repositorio:
+En Netlify, hacer clic en "New site".
+Seleccionar "Import from Git".
+Conectar la cuenta de GitHub.
+Seleccionamos el repositorio que contiene nuestra landing page y aplicación web.
+Hacer clic en "Deploy site".
+
+<img src="./assets/7.2.1.7.SoftwareDeploymentEvidenceforSprintReview/netlifyconectar.png" width="700"/>|
+
+3. Configurar el sitio web:
+Netlify te asignará una URL temporal a nuestro sitio web.
+
+<img src="./assets/7.2.1.7.SoftwareDeploymentEvidenceforSprintReview/netlifydeploy.png" width="700"/>|
+
+4. Desplegar el sitio web:
+Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
+
+<img src="./assets/7.2.1.7.SoftwareDeploymentEvidenceforSprintReview/netlifydeployoficial.png" width="700"/>|
 
 #### 7.2.1.8. Team Collaboration Insights during Sprint
 ---
+**Landing Page**
+
+Hemos desarrollado la implementacion de la Landing Page en ramas de la siguiente manera
+
