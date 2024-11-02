@@ -10,6 +10,25 @@
 - La gestión de configuración de software garantiza la coherencia en el entorno de desarrollo, el código fuente y el despliegue, lo que minimiza errores y facilita la colaboración en equipo. Tener configuraciones estandarizadas de desarrollo y estilo de código no solo mejora la productividad, sino que también optimiza la calidad del producto.
 - El Sprint 1 permite organizar y documentar cada fase del desarrollo, desde la planificación hasta la evidencia de ejecución y pruebas. Este enfoque iterativo y documentado facilita la evaluación y mejora continua del producto, generando una base sólida para el desarrollo futuro.
 - A través de entrevistas y evaluaciones basadas en heurísticas, se obtiene una visión real del valor y usabilidad del producto para el usuario final. Este proceso no solo proporciona un feedback crítico para ajustar la aplicación, sino que también ayuda a identificar mejoras que aumenten la aceptación y efectividad del producto.
+- En el video "About-The-Team" de SecureID, los aspectos más destacados incluyen la integración de diversos componentes tecnológicos, como la landing page y la aplicación móvil, un backend convencional y un sistema basado en blockchain. Cada componente fue diseñado para crear y gestionar identidades digitales de forma segura y eficiente, especialmente para personas en zonas rurales del Perú. La landing page y la app móvil ofrecen una interfaz accesible y funcional que permite a los usuarios finales gestionar sus identificaciones digitales y acceder a servicios esenciales, como educación y salud. El backend convencional gestiona la lógica de negocio y la integración con servicios necesarios, mientras que la blockchain privada optimiza la seguridad y la integridad de los datos de identidad, reduciendo el riesgo de fraudes y facilitando el acceso a servicios clave sin depender de documentación convencional.
+
+    <img src="./assets/anexos/videoabouttheteam.png" width="700"/>
+
+    Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EYV4yHsJANVHniaFRLFlhnQB2leGKrHxhhOGanX82y5_rA?e=UgJE8w
+
+    Link YouTube: https://www.youtube.com/watch?v=ldF-UBWxm7U
+
+        Timing de inicio de cada integrante:
+
+        Pastrana León, Aldo Francisco: 0:06 - 1:19
+
+        Ore Aleman, Anderson Raul: 1:20 - 2:05
+
+        Sabino Arostegui, Max Dayson: 2:06 - 3:27
+
+        López Takahashi, Rodrigo Andrés: 3:28 - 4:28
+
+        Hernandez Tuesta, Sebastian: 4:29 - 5:39
 
 ---
 **Recomendaciones**
@@ -22,6 +41,27 @@
 - Implementar una configuración de despliegue continua y pruebas automatizadas ayudará a minimizar errores en el despliegue y facilitará la revisión de cada nueva versión. Esto mejorará la eficiencia y calidad en cada entrega de Sprint.
 - Asegurarse de que la guía de estilo y convenciones esté clara y accesible para todos los miembros del equipo. Esto unificará el código y facilitará el mantenimiento a largo plazo, además de ser útil para nuevos desarrolladores que se unan al equipo.
 - Al realizar entrevistas y evaluaciones, incorporar métricas que midan aspectos clave como la facilidad de uso, la efectividad y el tiempo de aprendizaje. Esto permitirá hacer ajustes basados en datos objetivos y crear un producto más centrado en el usuario.
+
+---
+**Video About-the-Team**
+
+<img src="./assets/anexos/videoabouttheteam.png" width="700"/>
+
+Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EYV4yHsJANVHniaFRLFlhnQB2leGKrHxhhOGanX82y5_rA?e=UgJE8w
+
+Link YouTube: https://www.youtube.com/watch?v=ldF-UBWxm7U
+
+    Timing de inicio de cada integrante:
+
+    Pastrana León, Aldo Francisco: 0:06 - 1:19
+
+    Ore Aleman, Anderson Raul: 1:20 - 2:05
+
+    Sabino Arostegui, Max Dayson: 2:06 - 3:27
+
+    López Takahashi, Rodrigo Andrés: 3:28 - 4:28
+
+    Hernandez Tuesta, Sebastian: 4:29 - 5:39
 
 ---
 **Bibliografía**
@@ -180,3 +220,21 @@
     López Takahashi, Rodrigo Andrés: 2:07 - 2:44
 
     Hernandez Tuesta, Sebastian: 2:45 - 3:13
+
+---
+
+[Video About-The-Theam](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EYV4yHsJANVHniaFRLFlhnQB2leGKrHxhhOGanX82y5_rA?e=UgJE8w)
+
+![videoabouttheteam](./assets/anexos/videoabouttheteam.png)
+
+    Timing de inicio de cada integrante:
+
+    Pastrana León, Aldo Francisco: 0:06 - 1:19
+
+    Ore Aleman, Anderson Raul: 1:20 - 2:05
+
+    Sabino Arostegui, Max Dayson: 2:06 - 3:27
+
+    López Takahashi, Rodrigo Andrés: 3:28 - 4:28
+
+    Hernandez Tuesta, Sebastian: 4:29 - 5:39
