@@ -398,3 +398,114 @@ Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 
 Hemos desarrollado la implementacion de la Landing Page en ramas de la siguiente manera
 
+## 7.3. Validation Interviews
+---
+
+### 7.3.1. Diseño de Entrevistas
+
+**Objetivo de la Entrevista**
+
+Evaluar la efectividad, usabilidad y percepción de seguridad de SecureID en su landing page, aplicación web, centrándonos en las principales funcionalidade y la percepción del usuario sobre la tecnología blockchain aplicada a la identificación digital.
+
+> Elementos a Incluir en la Sesión de Validación para el segmento objetivo “Residentes”.
+
+1. Landing Page de SecureID
+
+-   Presentación del Landing Page:
+
+    Pregunta: ¿Cómo describirías la forma en que se presenta la información en la página de inicio?
+
+-   Navegación y Usabilidad:
+    
+    Pregunta: ¿Encuentras que la navegación del sitio es intuitiva y fácil de entender?
+
+-   Valor Propuesto:
+    
+    Pregunta: ¿Entiendes claramente cuál es el valor de SecureID al ver la página de inicio?
+
+-   Captación de Datos:
+    
+    Pregunta: ¿Consideras que la página captura de manera efectiva la información necesaria de los usuarios?
+
+2. Aplicación Web de SecureID
+
+-   Generar Identificación Virtual (Funcionalidad Clave):
+    
+    Pregunta: ¿Es fácil entender el proceso para crear tu identificación virtual? ¿Te sientes seguro?
+
+-   Interacción y Diseño de la Aplicación:
+    
+    Pregunta: ¿Encuentras que el diseño y la forma en que interactúas con la aplicación son intuitivos?
+
+-   Feedback del Usuario sobre Funcionalidades de Blockchain:
+   
+    Pregunta: ¿Qué piensas sobre que la app use blockchain para proteger tus datos? ¿Te da más confianza o te genera dudas?
+
+-   Consultar Historial de Transacciones:
+    
+    Pregunta: ¿Te resulta útil poder ver un historial de actualizaciones y cambios?
+
+-   Accesibilidad y Facilidad de Navegación:
+
+    Pregunta: ¿Encuentras fácil acceder a la información de cada servicio? ¿Los íconos o botones son intuitivos?
+
+-   Interacción con los Servicios:
+
+    Pregunta: ¿Te gustaría que esta sección permita alguna interacción adicional, como consultas o solicitud de servicios específicos?
+
+> Elementos a Incluir en la Sesión de Validación para el Segmento Objetivo "Autoridades Locales"
+
+1. Landing Page de SecureID
+
+-   Presentación del Landing Page:
+    
+    ¿Cómo describirías la forma en que se presenta la información y el acceso administrativo en la página de inicio?
+
+-   Navegación y Usabilidad:
+    
+    ¿Encuentras que la navegación del sitio es intuitiva y fácil de entender desde una perspectiva administrativa?
+
+-   Valor Propuesto para la Administración:
+
+    ¿Percibes claramente cuál es el valor de SecureID para facilitar la administración de servicios?
+
+-   Captación y Visualización de Datos:
+
+    ¿Consideras que la página captura y visualiza de manera efectiva la información necesaria de los residentes para fines administrativos?
+
+2. Aplicación Web de SecureID para la Administración de Identificaciones y Servicios
+
+-   Gestión de Identificaciones Virtuales (Funcionalidad Clave):
+    
+    ¿Es fácil para ti comprender y utilizar el proceso de generación y administración de identificaciones virtuales de los residentes?
+
+-   Interacción y Diseño de la Aplicación para Autoridades:
+
+    ¿Encuentras que el diseño y la forma en que interactúas con las opciones administrativas son intuitivos?
+
+-   Feedback sobre las Funcionalidades de Blockchain para la Seguridad de los Datos:
+
+    ¿Qué piensas sobre el uso de blockchain para asegurar los datos de los residentes? ¿Crees que mejora la seguridad de la información que gestionas?
+
+-   Consultar Historial de Transacciones y Cambios (Seguimiento Administrativo):
+
+    ¿Te resulta útil tener acceso al historial de transacciones y cambios en los perfiles de los residentes?
+
+3. Gestión de Servicios Brindados a los Residentes
+
+-   Accesibilidad y Facilidad para Administrar la Información de los Servicios:
+    
+    ¿Encuentras sencillo acceder y actualizar la información de cada servicio (salud, educación, agua potable, energía)?
+
+-   Interacción para Consultas o Solicitudes de Servicios por Parte de los Residentes:
+
+    ¿Te gustaría que esta sección permita una mayor interacción con los residentes, como recibir y gestionar consultas o solicitudes específicas?
+
+### 7.3.2. Registro de Entrevistas.
+---
+
+###7.3.3. Evaluaciones según heurísticas.
+---
+
+##7.4. Video About-the-Product.
+---
