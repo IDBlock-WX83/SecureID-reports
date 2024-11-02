@@ -604,3 +604,9 @@ Evaluar la efectividad, usabilidad y percepción de seguridad de SecureID en su 
 
 ## 7.4. Video About-the-Product
 ---
+
+<img src="./assets/7.4.VideoAbout-the-Product/abouttheproductvideo.png" width="700"/>
+
+Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/ETW2rJLI7nFLo2tie-p6iasBBMsJQvLLlETa5hUlRAhFXg?e=SSmdTu
+
+Link YouTube: https://www.youtube.com/watch?v=ldF-UBWxm7Uc
