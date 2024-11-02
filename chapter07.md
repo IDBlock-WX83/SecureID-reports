@@ -228,8 +228,8 @@ Para el despliegue del Web Service, se utilizará la plataforma Railway. A conti
 | **Sprint n-1 Retrospective Summary** | El equipo usará HTML, CSS y JavaScript para el desarrollo del Landing Page y Flutter para el desarrollo de la Aplicación Móvil |
 | **Sprint Goal & User Stories** |   |
 | Sprint n Goal  | Realizar el desarrollo del Landing Page y Aplicación Móvil |
-| Sprint n Velocity | 7 |
-| Sum of story Points | 24 |
+| Sprint n Velocity | 14 |
+| Sum of story Points | 63 |
 
 #### 7.2.1.2. Sprint Backlog 1
 ---
@@ -316,8 +316,66 @@ registrarme en SecureID y comenzar a utilizar la plataforma.</td>
         <td>Optimización para Dispositivos Móviles</td>
         <td>Como visitante de la landing page, quiero que la página esté optimizada para dispositivos
 móviles para poder navegarla cómodamente desde mi teléfono o tableta.</td>
+        <td>1</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Registro de Identificación Digital</td>
+        <td>TK01</td>
+        <td>Registro de Identificación Digital</td>
+        <td>Como residente de la zona rural, quiero registrar mi identificación digital en la plataforma
+SecureID para acceder a servicios esenciales como salud, educación y asistencia social.</td>
+        <td>1</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Verificación de Identidad</td>
+        <td>TK01</td>
+        <td>Verificación de Identidad</td>
+        <td>Como autoridad local, quiero verificar la identidad digital de los residentes a través de la
+plataforma SecureID para asegurarme de que pueden acceder a los recursos y servicios sin
+fraude.</td>
         <td>2</td>
         <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US03</td>
+        <td>Acceso a Servicios Esenciales</td>
+        <td>TK01</td>
+        <td>Acceso a Servicios Esenciales</td>
+        <td>Como residente de la zona rural, quiero acceder a servicios como salud, educación y
+asistencia social a través de la plataforma SecureID utilizando mi identificación digital.</td>
+        <td>2</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US06</td>
+        <td>Integración con Servicios Gubernamentales</td>
+        <td>TK01</td>
+        <td>Integración con Servicios Gubernamentales</td>
+        <td>Como autoridad local, quiero que la plataforma SecureID esté integrada con los sistemas
+gubernamentales existentes para que pueda gestionar y verificar identidades de manera
+más eficiente.</td>
+        <td>2</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US07</td>
+        <td>Interfaz de Usuario Accesible</td>
+        <td>TK01</td>
+        <td>Interfaz de Usuario Accesible</td>
+        <td>Como residente de la zona rural con bajo nivel de alfabetización digital, quiero una interfaz
+de usuario que sea simple y fácil de usar para que pueda gestionar mi identificación digital
+sin dificultad.</td>
+        <td>1</td>
+        <td>Rodrigo López</td>
         <td>Done</td>
     </tr>
 </table>
@@ -394,6 +452,7 @@ Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 
 #### 7.2.1.8. Team Collaboration Insights during Sprint
 ---
+
 **Landing Page**
 
 Hemos desarrollado la implementacion de la Landing Page en ramas de la siguiente manera
