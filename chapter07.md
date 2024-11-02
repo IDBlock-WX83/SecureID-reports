@@ -388,7 +388,7 @@ sin dificultad.</td>
 | https://github.com/IDBlock-WX83/landing-page | main | 642bf896b8b44947bd7334d5fa9dd19cbe4f7974  | Update index.html | Update index.html | 01/11/2024         |
 | https://github.com/IDBlock-WX83/landing-page | main | 92c68a7af8d002b08451fb86e6ef95d1dfa68a97  | Update index.html | Update index.html | 01/11/2024         |
 | https://github.com/IDBlock-WX83/landing-page | main | d0f5a95cb84613b5f52d7076dfc2eb81af0c4586  | first commit | first commit | 25/09/2024         |
-| https://github.com/IDBlock-WX83/landing-page | main |   | update text to english | Actualizar texto a ingles | 01/11/2024         |
+| https://github.com/IDBlock-WX83/landing-page | main | 0da8bbea46cc7d52a1f870e15a67cd9488566f9c  | añadiendo vistas de colaboradores y beneficios | añadiendo vistas de colaboradores y beneficios | 01/11/2024         |
 | https://github.com/LosChiferos-WS71/ztech-web-application | main | bf09cbdeb2e922b3fda8b3ac3d78e602e746d96c  | feat: Add project basis | Agregar proyecto basse | 03/05/2024         |
 | https://github.com/LosChiferos-WS71/ztech-web-application | main | e63f61ebded0c7abfa3c3fdd2b47a010f4c9fe4a  | add register view | Agregar vista de registro | 03/05/2024         |
 | https://github.com/LosChiferos-WS71/ztech-web-application | main | 3acc2160e49f47adfd010fad6ff8125fa4afdf83  | Add Application Web | Agregar vista de login | 03/05/2024         |
