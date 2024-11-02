@@ -501,11 +501,11 @@ Evaluar la efectividad, usabilidad y percepción de seguridad de SecureID en su 
 
     ¿Te gustaría que esta sección permita una mayor interacción con los residentes, como recibir y gestionar consultas o solicitudes específicas?
 
-### 7.3.2. Registro de Entrevistas.
+### 7.3.2. Registro de Entrevistas
 ---
 
-###7.3.3. Evaluaciones según heurísticas.
+### 7.3.3. Evaluaciones según heurísticas
 ---
 
-##7.4. Video About-the-Product.
+## 7.4. Video About-the-Product
 ---
