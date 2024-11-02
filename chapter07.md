@@ -610,3 +610,15 @@ Evaluar la efectividad, usabilidad y percepción de seguridad de SecureID en su 
 Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/ETW2rJLI7nFLo2tie-p6iasBBMsJQvLLlETa5hUlRAhFXg?e=SSmdTu
 
 Link YouTube: https://www.youtube.com/watch?v=ldF-UBWxm7Uc
+
+    Timing de inicio de cada integrante:
+
+    Ramirez Zapata, Sebastián Jesús: 0:05 - 0:42
+
+    Pastrana León, Aldo Francisco: 0:43 - 1:53
+
+    Chicana Romero, Marzzio Braulio: 1:54 - 2:29
+
+    Carrasco Hernandez, Florentino Josue: 2:30 - 3:58
+
+    Perez Pizarro, Pedro Jeremy: 3:59 - 4:22
