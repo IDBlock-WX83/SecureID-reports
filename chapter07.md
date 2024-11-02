@@ -328,7 +328,7 @@ móviles para poder navegarla cómodamente desde mi teléfono o tableta.</td>
         <td>Como residente de la zona rural, quiero registrar mi identificación digital en la plataforma
 SecureID para acceder a servicios esenciales como salud, educación y asistencia social.</td>
         <td>1</td>
-        <td>Aldo Pastrana</td>
+        <td>Anderson Ore</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -340,7 +340,7 @@ SecureID para acceder a servicios esenciales como salud, educación y asistencia
 plataforma SecureID para asegurarme de que pueden acceder a los recursos y servicios sin
 fraude.</td>
         <td>2</td>
-        <td>Aldo Pastrana</td>
+        <td>Max Sabino</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -351,7 +351,7 @@ fraude.</td>
         <td>Como residente de la zona rural, quiero acceder a servicios como salud, educación y
 asistencia social a través de la plataforma SecureID utilizando mi identificación digital.</td>
         <td>2</td>
-        <td>Aldo Pastrana</td>
+        <td>Sebastian Hernandez</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -363,7 +363,7 @@ asistencia social a través de la plataforma SecureID utilizando mi identificaci
 gubernamentales existentes para que pueda gestionar y verificar identidades de manera
 más eficiente.</td>
         <td>2</td>
-        <td>Aldo Pastrana</td>
+        <td>Rodrigo López</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -375,7 +375,7 @@ más eficiente.</td>
 de usuario que sea simple y fácil de usar para que pueda gestionar mi identificación digital
 sin dificultad.</td>
         <td>1</td>
-        <td>Rodrigo López</td>
+        <td>Aldo Pastrana</td>
         <td>Done</td>
     </tr>
 </table>
@@ -384,11 +384,11 @@ sin dificultad.</td>
 ---
 | Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body                                  | Committed on (Date) |
 |---------------------|-------------------|-----------|--------------------------|------------------------------------------------------|---------------------|
-| https://github.com/LosChiferos-WS71/ztech-landing-page | main | 9a3460fa33188d95b895d02750e9eaac699cc935  | Add Header | Agregar encabezado | 03/05/2024         |
-| https://github.com/LosChiferos-WS71/ztech-landing-page | main | bc30f54238c06628c35569697a521f64fbbfe1e0  | add animate | Agregar animaciones | 03/05/2024         |
-| https://github.com/LosChiferos-WS71/ztech-landing-page | main | e065ce648fffc8be412374ecf393eca544858b4d  | feat(add): Update Jquery.min.js | Agregar el Jquery | 03/05/2024         |
-| https://github.com/LosChiferos-WS71/ztech-landing-page | main | 76d259212937a87422d07849bc48113e12aa74b5  | Add Main JavaScript | Agregar el main de JavaScript | 03/05/2024         |
-| https://github.com/LosChiferos-WS71/ztech-landing-page | main | 568c2a6294696bd95fece6725f07e3f1e2dee815  | update text to english | Actualizar texto a ingles | 03/05/2024         |
+| https://github.com/IDBlock-WX83/landing-page | main | 25c01e5d268b9ab220ac25770029a360b5cb652b  | update title | update title | 01/11/2024         |
+| https://github.com/IDBlock-WX83/landing-page | main | 642bf896b8b44947bd7334d5fa9dd19cbe4f7974  | Update index.html | Update index.html | 01/11/2024         |
+| https://github.com/IDBlock-WX83/landing-page | main | 92c68a7af8d002b08451fb86e6ef95d1dfa68a97  | Update index.html | Update index.html | 01/11/2024         |
+| https://github.com/IDBlock-WX83/landing-page | main | d0f5a95cb84613b5f52d7076dfc2eb81af0c4586  | first commit | first commit | 25/09/2024         |
+| https://github.com/IDBlock-WX83/landing-page | main |   | update text to english | Actualizar texto a ingles | 01/11/2024         |
 | https://github.com/LosChiferos-WS71/ztech-web-application | main | bf09cbdeb2e922b3fda8b3ac3d78e602e746d96c  | feat: Add project basis | Agregar proyecto basse | 03/05/2024         |
 | https://github.com/LosChiferos-WS71/ztech-web-application | main | e63f61ebded0c7abfa3c3fdd2b47a010f4c9fe4a  | add register view | Agregar vista de registro | 03/05/2024         |
 | https://github.com/LosChiferos-WS71/ztech-web-application | main | 3acc2160e49f47adfd010fad6ff8125fa4afdf83  | Add Application Web | Agregar vista de login | 03/05/2024         |
