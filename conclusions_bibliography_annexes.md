@@ -7,6 +7,9 @@
 - La organización en capas, desde el nivel táctico hasta el de diseño UX, refleja una arquitectura de software robusta que facilita la separación de responsabilidades. Cada capa tiene un propósito claro, lo que contribuye a una mayor mantenibilidad y escalabilidad del sistema.
 -  El capítulo de diseño UX resalta la importancia de la experiencia del usuario, lo que sugiere que la entrega no solo se enfoca en la funcionalidad del sistema, sino también en cómo los usuarios interactuarán con él, garantizando usabilidad y accesibilidad.
 - La inclusión de diagramas a nivel de componentes y base de datos sugiere que se ha trabajado en una documentación técnica detallada, lo que es esencial para el mantenimiento y la continuidad del proyecto.
+- La gestión de configuración de software garantiza la coherencia en el entorno de desarrollo, el código fuente y el despliegue, lo que minimiza errores y facilita la colaboración en equipo. Tener configuraciones estandarizadas de desarrollo y estilo de código no solo mejora la productividad, sino que también optimiza la calidad del producto.
+- El Sprint 1 permite organizar y documentar cada fase del desarrollo, desde la planificación hasta la evidencia de ejecución y pruebas. Este enfoque iterativo y documentado facilita la evaluación y mejora continua del producto, generando una base sólida para el desarrollo futuro.
+- A través de entrevistas y evaluaciones basadas en heurísticas, se obtiene una visión real del valor y usabilidad del producto para el usuario final. Este proceso no solo proporciona un feedback crítico para ajustar la aplicación, sino que también ayuda a identificar mejoras que aumenten la aceptación y efectividad del producto.
 
 ---
 **Recomendaciones**
@@ -16,6 +19,9 @@
 - Asegúrate de que los diagramas, tanto de la arquitectura de software como de UX, se actualicen continuamente durante el desarrollo, ya que podrían surgir cambios que impacten la estructura inicialmente planteada.
 - Implementar pruebas de usabilidad tempranas en el proceso de diseño de UX ayudará a identificar posibles problemas de interacción antes de que se conviertan en un obstáculo durante el desarrollo o despliegue del sistema.
 - Fomentar una colaboración estrecha entre los equipos de desarrollo, diseño UX y arquitectura para asegurar que las decisiones tomadas en una capa no afecten negativamente el rendimiento o la experiencia de usuario del sistema final.
+- Implementar una configuración de despliegue continua y pruebas automatizadas ayudará a minimizar errores en el despliegue y facilitará la revisión de cada nueva versión. Esto mejorará la eficiencia y calidad en cada entrega de Sprint.
+- Asegurarse de que la guía de estilo y convenciones esté clara y accesible para todos los miembros del equipo. Esto unificará el código y facilitará el mantenimiento a largo plazo, además de ser útil para nuevos desarrolladores que se unan al equipo.
+- Al realizar entrevistas y evaluaciones, incorporar métricas que midan aspectos clave como la facilidad de uso, la efectividad y el tiempo de aprendizaje. Esto permitirá hacer ajustes basados en datos objetivos y crear un producto más centrado en el usuario.
 
 ---
 **Bibliografía**
@@ -156,3 +162,21 @@
 [Mobile Application GitHub](https://github.com/IDBlock-WX83/SecureID-reports)
 
 ![mobileapplication](./assets/anexos/mobileapplication.png)
+
+---
+
+[Video About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/ETW2rJLI7nFLo2tie-p6iasBBMsJQvLLlETa5hUlRAhFXg?e=SSmdTu)
+
+![videoabouttheproduct](./assets/anexos/videoabouttheproduct.png)
+
+    Timing de inicio de cada integrante:
+
+    Pastrana León, Aldo Francisco: 0:02 - 0:41
+
+    Ore Aleman, Anderson Raul: 0:42 - 1:20
+
+    Sabino Arostegui, Max Dayson: 1:21 - 2:06
+
+    López Takahashi, Rodrigo Andrés: 2:07 - 2:44
+
+    Hernandez Tuesta, Sebastian: 2:45 - 3:13
