@@ -389,11 +389,11 @@ sin dificultad.</td>
 | https://github.com/IDBlock-WX83/landing-page | main | 92c68a7af8d002b08451fb86e6ef95d1dfa68a97  | Update index.html | Update index.html | 01/11/2024         |
 | https://github.com/IDBlock-WX83/landing-page | main | d0f5a95cb84613b5f52d7076dfc2eb81af0c4586  | first commit | first commit | 25/09/2024         |
 | https://github.com/IDBlock-WX83/landing-page | main | 0da8bbea46cc7d52a1f870e15a67cd9488566f9c  | añadiendo vistas de colaboradores y beneficios | añadiendo vistas de colaboradores y beneficios | 01/11/2024         |
-| https://github.com/LosChiferos-WS71/ztech-web-application | main | bf09cbdeb2e922b3fda8b3ac3d78e602e746d96c  | feat: Add project basis | Agregar proyecto basse | 03/05/2024         |
-| https://github.com/LosChiferos-WS71/ztech-web-application | main | e63f61ebded0c7abfa3c3fdd2b47a010f4c9fe4a  | add register view | Agregar vista de registro | 03/05/2024         |
-| https://github.com/LosChiferos-WS71/ztech-web-application | main | 3acc2160e49f47adfd010fad6ff8125fa4afdf83  | Add Application Web | Agregar vista de login | 03/05/2024         |
-| https://github.com/LosChiferos-WS71/ztech-web-application | main | 90f78a2b77cbca2ccb9507e72a80e4f926751591  | feat(add): Add component home without css | Agregar component home con CSS | 03/05/2024         |
-| https://github.com/LosChiferos-WS71/ztech-web-application | main | 31c2c0791d2a0cfc0ccbb0dfa62dcb7b5232460a  | add register styles | Agregar estilos de la vista registro | 03/05/2024         |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | main | c664f66ba8709e37173b7c4815c79c0f8381fedd  | Add welcome_screen | Add welcome_screen | 22/11/2024         |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | main | 3e6681c73d24c6959570e3c29623c67800025d1b  | add face capture screen | add face capture screen | 31/05/2024         |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | main | eed56013a1ccda123ad44400dcbed51ec075256c  | Adding service management | Adding service management | 01/11/2024         |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | main | ad62519d59894302bbce65af1afa8749348f4e56  | Update menu screen. Routing to services | Update menu screen. Routing to services | 01/11/2024         |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | main | 247f4d39e0994f1c6cd8ffc624fd52de5a346ea6  | update data user | update data user | 01/11/2024         |
 
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review
 ---
@@ -407,6 +407,18 @@ Las tareas a realizar en cada sprint para la elaboración del landing page fuero
 - Planteamiento y desarrollo sobre nuestros componentes de estrategia empresarial como lo que es la presentacion de las ofertas y ventajas del servicio de SecureID.
 -  Ofrecemos una descripción general del servicio, luego detallamos las características específicas del producto, y finalmente presentamos testimonios y un formulario de contacto.
 - Presentamos información en secciones bien definidas lo cual facilita la navegación del usuario por áreas de interés específicas.
+
+![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/landingpage.png)
+
+> Asimismo, se realizo la aplicación móvil enfocado en el usuario final para ofrecerle un servicio eficaz y de calidad. Ademas, se realizaron tareas en el sprint para la elaboración de la aplicación móvil.
+
+- La interfaz "Menu" de los usuarios residentes rurales donde podran visualizar las funcionalilades que tiene la aplicación móvil
+
+![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/menuresidentes.png)
+
+- La interfaz "Documento de Identidad" de los usuarios residente rurales dondde podran visualizar su  documentación digital
+
+![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/identificacion.png)
 
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review
 ---
@@ -455,7 +467,31 @@ Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 
 **Landing Page**
 
-Hemos desarrollado la implementacion de la Landing Page en ramas de la siguiente manera
+> Hemos desarrollado la implementacion de la Landing Page en ramas de la siguiente manera
+
+<img src="./assets/7.2.1.8.TeamCollaborationInsightsduringSprint/ramaslanding.png" width="700"/>
+
+> Commits hechos
+
+<img src="./assets/7.2.1.8.TeamCollaborationInsightsduringSprint/commitslanding.png" width="700"/>
+
+> Collaboration
+
+<img src="./assets/7.2.1.8.TeamCollaborationInsightsduringSprint/collaborationlanding.png" width="700"/>
+
+**Mobile Application**
+
+> Hemos desarrollado la implementacion de la Mobile App en ramas de la siguiente manera
+
+<img src="./assets/7.2.1.8.TeamCollaborationInsightsduringSprint/ramasgithub.png" width="700"/>
+
+> Commits hechos
+
+<img src="./assets/7.2.1.8.TeamCollaborationInsightsduringSprint/commitsgithub.png" width="700"/>
+
+> Collaboration
+
+<img src="./assets/7.2.1.8.TeamCollaborationInsightsduringSprint/collaboration.png" width="700"/>
 
 ## 7.3. Validation Interviews
 ---
