@@ -410,15 +410,27 @@ Las tareas a realizar en cada sprint para la elaboración del landing page fuero
 
 ![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/landingpage.png)
 
-> Asimismo, se realizo la aplicación móvil enfocado en el usuario final para ofrecerle un servicio eficaz y de calidad. Ademas, se realizaron tareas en el sprint para la elaboración de la aplicación móvil.
+> Asimismo, se realizo la aplicación móvil enfocado en el usuario final para ofrecerle un servicio eficaz y de calidad. Ademas, se realizaron tareas en el sprint para la elaboración de la aplicación móvil. A continuación, se muestran algunas de las interfaces mas importantes desarrolladas.
 
 - La interfaz "Menu" de los usuarios residentes rurales donde podran visualizar las funcionalilades que tiene la aplicación móvil
 
-![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/menuresidentes.png)
+    ![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/menuresidentes.png)
 
-- La interfaz "Documento de Identidad" de los usuarios residente rurales dondde podran visualizar su  documentación digital
+- La interfaz "Documento de Identidad" de los usuarios residentes rurales donde podran visualizar su  documentación digital
 
-![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/identificacion.png)
+    ![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/identificacion.png)
+
+- La interfaz "Servicios" de los usuarios residentes rurales podran visualizar los diversos servicios esenciales
+
+    ![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/servicios.png)
+
+- La interfaz "Menu" de los usuarios autoridades locales donde podran visualizar las funcionalilades que tiene la aplicación móvil
+
+    ![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/menuautoridades.png)
+
+- La interfaz "Buscar Residente" de los usuarios autoridades locales donde podran visualizar y buscar a los residents registrados
+
+    ![](./assets/7.2.1.5.ExecutionEvidenceforSprintReview/buscarresidente.png)
 
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review
 ---
