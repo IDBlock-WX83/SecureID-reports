@@ -205,6 +205,12 @@ Link YouTube: https://www.youtube.com/watch?v=ldF-UBWxm7U
 
 ---
 
+[Video de exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EV462_lRakdAm1F8bWWd93MBTW9KuzkVY7TIlw0tZ3-oKw?e=mVL2Wv)
+
+![videoexposiciontb2](./assets/anexos/videoexposiciontb2.png)
+
+---
+
 [Video About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/ETW2rJLI7nFLo2tie-p6iasBBMsJQvLLlETa5hUlRAhFXg?e=SSmdTu)
 
 ![videoabouttheproduct](./assets/anexos/videoabouttheproduct.png)
