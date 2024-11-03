@@ -619,9 +619,9 @@ Evaluar la efectividad, usabilidad y percepción de seguridad de SecureID en su 
 
 Carlos De La Cruz Villarreal, a interactuar con la landing page nos indica que percibe la información correctamente. Asimismo, nos comenta que la navegación es fácil e intuitivo para los usuarios y comprende claramente el valor de SecureID. Ademas, nos dice que captura de manera efectiva la atención de los usuarios. Luego pasando a la aplicación móvil, nos comenta que el proceso para crear una identificación virtual es fácil, seguro e intuitivo. Tambien, nos dice que al utilizar blockchain le da confianza para la protección de sus datos. Finalmente, le es fácil acceder a la información de cada servicio que brinda la aplicación móvil. 
 
-Link de la entrevista: 
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EancWiNePRdLrpEEaRmaqVMBKvwwwXIuFawZuMJ3sz6l6A?e=dhJE9L
 
-Timing: 15:13 - 20:03
+Timing: 00:00 - 06:44
 
 ---
 
@@ -633,9 +633,9 @@ Timing: 15:13 - 20:03
 
 Isaac nos dice que que la landing page de la plataforma incluye secciones claras como Sobre Nosotros, Entrevistas, Experiencia de Usuarios y un formulario de contacto, con navegación intuitiva y opciones de idioma. En la aplicación móvil, el registro requiere datos completos del usuario y permite la subida del DNI, con un proceso fácil de entender según el entrevistado. La app es intuitiva, fácil de usar y emplea blockchain para proteger los datos, generando confianza. El documento de identidad digital muestra información relevante, y la aplicación facilita el acceso a servicios sociales como salud, educación y agua, con una interfaz intuitiva y completa sin necesidad de funcionalidades adicionales.
 
-Link de la entrevista: 
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EancWiNePRdLrpEEaRmaqVMBKvwwwXIuFawZuMJ3sz6l6A?e=dhJE9L
 
-Timing: 15:13 - 20:03
+Timing: 06:45 - 11:29
 
 ---
 
@@ -647,9 +647,9 @@ Timing: 15:13 - 20:03
 
 Wendy nos dice que la landing page de SecureID presenta la información de forma clara y accesible, con una navegación intuitiva que facilita encontrar lo necesario. El proceso de registro solicita datos personales detallados (nombre, apellidos, ID, dirección, teléfono, fecha de nacimiento, etc.), y la entrevistada considera que es fácil de entender y seguir paso a paso. Los íconos y botones son intuitivos y de fácil acceso, aunque sugiere que sería útil añadir funciones de interacción, como consultas o solicitudes de servicios específicos.
 
-Link de la entrevista: 
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EancWiNePRdLrpEEaRmaqVMBKvwwwXIuFawZuMJ3sz6l6A?e=dhJE9L
 
-Timing: 15:13 - 20:03
+Timing: 11:30 - 15:52
 
 ---
 
@@ -662,9 +662,9 @@ Timing: 15:13 - 20:03
 Claudia comenta respecto al landing page, la entrevistada destaco que el diseño es minimalista y fácil de comprender. Al hacerlo con las practicas del mercado hace que el usuario ya este acostumbrado a este tipo de navegación y este familiarizado con ello.  
 Como vista de autoridad le pareció adecuado que la información este dividida por secciones y ítems, brindando la información necesaria para una leída rápida. Respecto al aplicativo móvil, comento que la navegación es intuitiva y sin retrasos al tocar y trasladarse a otras partes de la aplicación. Comparo experiencias pasadas donde no sabía dónde estaba una opción en especifico o que algunas veces la aplicación dejaba de funcionar. Respecto a la tecnología blockchain implementada, su opinión fue positiva ya que con las noticias que suceden últimamente le parece adecuado agregar estas tecnologías que brindan seguridad a ambas partes , al usuario y a la autoridad.
 
-Link de la entrevista: 
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EancWiNePRdLrpEEaRmaqVMBKvwwwXIuFawZuMJ3sz6l6A?e=dhJE9L
 
-Timing: 15:13 - 20:03
+Timing: 15:53 - 20:54
 
 ---
 
@@ -676,9 +676,9 @@ Timing: 15:13 - 20:03
 
 Oscar Armas, al interactuar con la landing page de SecureID, nos indica que tiene un diseño intuitivo y de fácil uso. Recalca que puede encontrar la información navegando en el navbar y que está concisa. Asimismo, agrega que el uso de animaciones en el inicio le pareció llamativo. Para la aplicación móvil, Oscar señala que es fácil de comprender su uso, ya que se puede buscar a los residentes de forma rápida ingresando su DNI o ID. Además, modificar su perfil le ayudaría a completar las solicitudes que son de su responsabilidad como autoridad local. Sobre la tecnología blockchain, menciona que es muy útil para la seguridad y protección de los datos de los residentes, ya que le permite tener un registro de todas las acciones que realiza y poder visualizarlo en el historial de transacciones. Por último, la agregación y modificación de los servicios es fundamental para una autoridad local, ya que le permite ofrecer a su comunidad (residentes) los beneficios de la institución municipal.
 
-Link de la entrevista: 
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EancWiNePRdLrpEEaRmaqVMBKvwwwXIuFawZuMJ3sz6l6A?e=dhJE9L
 
-Timing: 15:13 - 20:03
+Timing: 20:55 - 29:47
 
 ---
 
@@ -690,9 +690,9 @@ Timing: 15:13 - 20:03
 
 Se inicio la entrevista con una explicacion a la usuaria Payda representante de las autoriades locales, persona a fin al sector publico en la rama de salud, explicandole cual era el  funcionamiento de la aplicacion en desarrollo, asimismo se pidio su opinion en relacion a la factibilidad de implementacion no solo para la aceptacion por parte de los residentes de areas rurales, sino tambien para las mismas instituciones estatales que pudieran aceptar sacar informacion de aqui, explicando de la forma menos tecnica posible el funcionamiento de la tecnologia implementada a fin de que sea lo mas sencillo de entender para el usuario. DAndonos al final una interpretacion de que desde su punto de vista la aplicacion si podria tener buen futuro en el ambito que el representa.
 
-Link de la entrevista: 
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EancWiNePRdLrpEEaRmaqVMBKvwwwXIuFawZuMJ3sz6l6A?e=dhJE9L
 
-Timing: 15:13 - 20:03
+Timing: 29:48 - 36:25
 
 ---
 
