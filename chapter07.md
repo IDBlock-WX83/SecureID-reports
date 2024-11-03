@@ -770,7 +770,7 @@ Timing: 29:48 - 36:25
 
 <img src="./assets/7.4.VideoAbout-the-Product/abouttheproductvideo.png" width="700"/>
 
-Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/ETW2rJLI7nFLo2tie-p6iasBBMsJQvLLlETa5hUlRAhFXg?e=SSmdTu
+Link Microsoft Stream: https://upcedupe-my.sharepoint.com/personal/u20211c186_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c186%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideo%20About%2DThe%2DProduct%20%2D%20SecureID%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea04fa467%2D0138%2D49c9%2D96c1%2D9c35b04b085b
 
 Link YouTube: https://www.youtube.com/watch?v=1mA3r2Tlh-o
 

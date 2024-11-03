@@ -14,7 +14,7 @@
 
     <img src="./assets/anexos/videoabouttheteam.png" width="700"/>
 
-    Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EYV4yHsJANVHniaFRLFlhnQB2leGKrHxhhOGanX82y5_rA?e=UgJE8w
+    Link Microsoft Stream: https://upcedupe-my.sharepoint.com/personal/u20211c186_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c186%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideo%20About%2DThe%2DTeam%20%2D%20SecureID%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E227ed4a1%2D8c22%2D4527%2D831a%2D5f5023d55ee6
 
     Link YouTube: https://www.youtube.com/watch?v=ldF-UBWxm7U
 
@@ -47,7 +47,7 @@
 
 <img src="./assets/anexos/videoabouttheteam.png" width="700"/>
 
-Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c186_upc_edu_pe/EYV4yHsJANVHniaFRLFlhnQB2leGKrHxhhOGanX82y5_rA?e=UgJE8w
+Link Microsoft Stream: https://upcedupe-my.sharepoint.com/personal/u20211c186_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c186%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideo%20About%2DThe%2DTeam%20%2D%20SecureID%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E227ed4a1%2D8c22%2D4527%2D831a%2D5f5023d55ee6
 
 Link YouTube: https://www.youtube.com/watch?v=ldF-UBWxm7U
 
