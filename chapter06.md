@@ -201,7 +201,7 @@ Estos SEO y meta tags están adaptados para reflejar la misión y los servicios 
 ### 6.2.5. Navigation Systems
 ---
 
-En los sistemas de navegación, los botones son interfaces clave que permiten moverse entre diferentes secciones de la aplicación. Un ejemplo son los botones en la parte superior de la plataforma web y landing page, que facilitan el acceso a distintas funciones. Estos botones incluyen texto que describe claramente su función, permitiendo al usuario moverse rápidamente por la aplicación seleccionando la opción que mejor se ajuste a sus necesidades.
+En los sistemas de navegación, los botones son interfaces clave que permiten moverse entre diferentes secciones de la aplicación. Un ejemplo son los botones en la parte superior de la landing page, que facilitan el acceso a distintas funciones. Estos botones incluyen texto que describe claramente su función, permitiendo al usuario moverse rápidamente por la aplicación seleccionando la opción que mejor se ajuste a sus necesidades.
 
 **Landing Page:**
 
@@ -228,7 +228,7 @@ Sistema de Navegación: En el menú principal de la aplicación, los usuarios pu
 ### 6.3.1. Landing Page Wireframe
 ---
 
-En esta sección se presentará el diseño del sitio web de nuestro software, proporcionando una visión clara del contenido que aparecerá en la plataforma. La landing page está optimizada para pantallas de ordenadores, con la información centrada para asegurar una fácil visualización. Además, cuenta con una barra de navegación que mejora la experiencia del usuario, facilitando el acceso a las distintas secciones del sitio.
+En esta sección se presentará el diseño de la landing page de nuestro software, proporcionando una visión clara del contenido que aparecerá en la plataforma. La landing page está optimizada para pantallas de ordenadores, con la información centrada para asegurar una fácil visualización. Además, cuenta con una barra de navegación que mejora la experiencia del usuario, facilitando el acceso a las distintas secciones del sitio.
 
 - Menú principal de la plataforma: Opciones de navegación
 
@@ -267,7 +267,7 @@ En esta sección se presentará el diseño del sitio web de nuestro software, pr
 ### 6.3.2. Landing Page Mock-up
 ---
 
-Se presentará una vista preliminar del sitio web, detallando el contenido por secciones, los colores, estilos e imágenes, todos alineados con el propósito del sitio para ofrecer al usuario una experiencia más fluida y comprensible sobre el objetivo del mismo.
+Se presentará una vista preliminar de la landing page, detallando el contenido por secciones, los colores, estilos e imágenes, todos alineados con el propósito del sitio para ofrecer al usuario una experiencia más fluida y comprensible sobre el objetivo del mismo.
 
 - Elementos Clave
     - Principios de diseño: Se aplicaron principios clave como jerarquía, equilibrio, contraste, repetición y ritmo para crear una página atractiva, fácil de usar y funcional.

@@ -187,10 +187,10 @@ Esta sección describe la configuración requerida para realizar correctamente e
 
 Para el despliegue de la Landing Page, se utilizará la plataforma Netlify. A continuación, se detallan los pasos necesarios:
 
-- Configuración del Repositorio: El código fuente de la Landing Page y la Aplicación Web se almacenará en un repositorio en la plataforma Github.
-- Creación del Sitio en Netlify: Se creará un nuevo sitio en Netlify vinculado al repositorio que contiene el código fuente de la Landing Page y la Aplicación Web.
+- Configuración del Repositorio: El código fuente de la Landing Page se almacenará en un repositorio en la plataforma Github.
+- Creación del Sitio en Netlify: Se creará un nuevo sitio en Netlify vinculado al repositorio que contiene el código fuente de la Landing Page.
 - Configuración de Build y Deploy: Netlify proporciona una integración continua (CI/CD) automatizada.
-- Configuración de Dominio Personalizado: Opcionalmente, se puede configurar un dominio personalizado para el sitio web desplegado en Netlify.
+- Configuración de Dominio Personalizado: Opcionalmente, se puede configurar un dominio personalizado para la landing page desplegado en Netlify.
 
 **Despliegue de la Aplicació Móvil en Firebase App Distribution**
 
@@ -459,17 +459,17 @@ Acceder a https://www.netlify.com/ y nos creamos una cuenta
 En Netlify, hacer clic en "New site".
 Seleccionar "Import from Git".
 Conectar la cuenta de GitHub.
-Seleccionamos el repositorio que contiene nuestra landing page y aplicación web.
+Seleccionamos el repositorio que contiene nuestra landing page.
 Hacer clic en "Deploy site".
 
 <img src="./assets/7.2.1.7.SoftwareDeploymentEvidenceforSprintReview/netlifyconectar.png" width="700"/>|
 
-3. Configurar el sitio web:
-Netlify te asignará una URL temporal a nuestro sitio web.
+3. Configurar la landing page:
+Netlify te asignará una URL temporal a nuestra landing page.
 
 <img src="./assets/7.2.1.7.SoftwareDeploymentEvidenceforSprintReview/netlifydeploy.png" width="700"/>|
 
-4. Desplegar el sitio web:
+4. Desplegar la landing page:
 Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 
 <img src="./assets/7.2.1.7.SoftwareDeploymentEvidenceforSprintReview/netlifydeployoficial.png" width="700"/>|
@@ -512,7 +512,7 @@ Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 
 **Objetivo de la Entrevista**
 
-Evaluar la efectividad, usabilidad y percepción de seguridad de SecureID en su landing page, aplicación web, centrándonos en las principales funcionalidade y la percepción del usuario sobre la tecnología blockchain aplicada a la identificación digital.
+Evaluar la efectividad, usabilidad y percepción de seguridad de SecureID en su landing page, aplicación móvil, centrándonos en las principales funcionalidade y la percepción del usuario sobre la tecnología blockchain aplicada a la identificación digital.
 
 > Elementos a Incluir en la Sesión de Validación para el segmento objetivo “Residentes”.
 
@@ -534,7 +534,7 @@ Evaluar la efectividad, usabilidad y percepción de seguridad de SecureID en su 
     
     Pregunta: ¿Consideras que la página captura de manera efectiva la información necesaria de los usuarios?
 
-2. Aplicación Web de SecureID
+2. Aplicación Móvil de SecureID
 
 -   Generar Identificación Virtual (Funcionalidad Clave):
     
@@ -580,7 +580,7 @@ Evaluar la efectividad, usabilidad y percepción de seguridad de SecureID en su 
 
     ¿Consideras que la página captura y visualiza de manera efectiva la información necesaria de los residentes para fines administrativos?
 
-2. Aplicación Web de SecureID para la Administración de Identificaciones y Servicios
+2. Aplicación Móvil de SecureID para la Administración de Identificaciones y Servicios
 
 -   Gestión de Identificaciones Virtuales (Funcionalidad Clave):
     
@@ -611,8 +611,159 @@ Evaluar la efectividad, usabilidad y percepción de seguridad de SecureID en su 
 ### 7.3.2. Registro de Entrevistas
 ---
 
+# Entrevista a Carlos De La Cruz Villarreal - Residentes Locales
+
+![image](./assets/7.3.2.RegistrodeEntrevistas/carlos.png)
+
+**Resumen de Entrevista:**
+
+Carlos De La Cruz Villarreal, a interactuar con la landing page nos indica que percibe la información correctamente. Asimismo, nos comenta que la navegación es fácil e intuitivo para los usuarios y comprende claramente el valor de SecureID. Ademas, nos dice que captura de manera efectiva la atención de los usuarios. Luego pasando a la aplicación móvil, nos comenta que el proceso para crear una identificación virtual es fácil, seguro e intuitivo. Tambien, nos dice que al utilizar blockchain le da confianza para la protección de sus datos. Finalmente, le es fácil acceder a la información de cada servicio que brinda la aplicación móvil. 
+
+Link de la entrevista: 
+
+Timing: 15:13 - 20:03
+
+---
+
+# Entrevista a Isaac - Residentes Locales
+
+![image](./assets/7.3.2.RegistrodeEntrevistas/isaac.png)
+
+**Resumen de Entrevista:**
+
+Isaac nos dice que que la landing page de la plataforma incluye secciones claras como Sobre Nosotros, Entrevistas, Experiencia de Usuarios y un formulario de contacto, con navegación intuitiva y opciones de idioma. En la aplicación móvil, el registro requiere datos completos del usuario y permite la subida del DNI, con un proceso fácil de entender según el entrevistado. La app es intuitiva, fácil de usar y emplea blockchain para proteger los datos, generando confianza. El documento de identidad digital muestra información relevante, y la aplicación facilita el acceso a servicios sociales como salud, educación y agua, con una interfaz intuitiva y completa sin necesidad de funcionalidades adicionales.
+
+Link de la entrevista: 
+
+Timing: 15:13 - 20:03
+
+---
+
+# Entrevista a Wendy - Residentes Locales
+
+![image](./assets/7.3.2.RegistrodeEntrevistas/Wendy.png)
+
+**Resumen de Entrevista:**
+
+Wendy nos dice que la landing page de SecureID presenta la información de forma clara y accesible, con una navegación intuitiva que facilita encontrar lo necesario. El proceso de registro solicita datos personales detallados (nombre, apellidos, ID, dirección, teléfono, fecha de nacimiento, etc.), y la entrevistada considera que es fácil de entender y seguir paso a paso. Los íconos y botones son intuitivos y de fácil acceso, aunque sugiere que sería útil añadir funciones de interacción, como consultas o solicitudes de servicios específicos.
+
+Link de la entrevista: 
+
+Timing: 15:13 - 20:03
+
+---
+
+# Entrevista a Claudia Alejandra Aleman - Autoridades Locales
+
+![image](./assets/7.3.2.RegistrodeEntrevistas/claudia.png)
+
+**Resumen de Entrevista:**
+
+Claudia comenta respecto al landing page, la entrevistada destaco que el diseño es minimalista y fácil de comprender. Al hacerlo con las practicas del mercado hace que el usuario ya este acostumbrado a este tipo de navegación y este familiarizado con ello.  
+Como vista de autoridad le pareció adecuado que la información este dividida por secciones y ítems, brindando la información necesaria para una leída rápida. Respecto al aplicativo móvil, comento que la navegación es intuitiva y sin retrasos al tocar y trasladarse a otras partes de la aplicación. Comparo experiencias pasadas donde no sabía dónde estaba una opción en especifico o que algunas veces la aplicación dejaba de funcionar. Respecto a la tecnología blockchain implementada, su opinión fue positiva ya que con las noticias que suceden últimamente le parece adecuado agregar estas tecnologías que brindan seguridad a ambas partes , al usuario y a la autoridad.
+
+Link de la entrevista: 
+
+Timing: 15:13 - 20:03
+
+---
+
+# Entrevista a Oscar Armas - Autoridades Locales
+
+![image](./assets/7.3.2.RegistrodeEntrevistas/oscar.png)
+
+**Resumen de Entrevista:**
+
+Oscar Armas, al interactuar con la landing page de SecureID, nos indica que tiene un diseño intuitivo y de fácil uso. Recalca que puede encontrar la información navegando en el navbar y que está concisa. Asimismo, agrega que el uso de animaciones en el inicio le pareció llamativo. Para la aplicación móvil, Oscar señala que es fácil de comprender su uso, ya que se puede buscar a los residentes de forma rápida ingresando su DNI o ID. Además, modificar su perfil le ayudaría a completar las solicitudes que son de su responsabilidad como autoridad local. Sobre la tecnología blockchain, menciona que es muy útil para la seguridad y protección de los datos de los residentes, ya que le permite tener un registro de todas las acciones que realiza y poder visualizarlo en el historial de transacciones. Por último, la agregación y modificación de los servicios es fundamental para una autoridad local, ya que le permite ofrecer a su comunidad (residentes) los beneficios de la institución municipal.
+
+Link de la entrevista: 
+
+Timing: 15:13 - 20:03
+
+---
+
+# Entrevista a Payda - Autoridades Locales
+
+![image](./assets/7.3.2.RegistrodeEntrevistas/payda.png)
+
+**Resumen de Entrevista:**
+
+Se inicio la entrevista con una explicacion a la usuaria Payda representante de las autoriades locales, persona a fin al sector publico en la rama de salud, explicandole cual era el  funcionamiento de la aplicacion en desarrollo, asimismo se pidio su opinion en relacion a la factibilidad de implementacion no solo para la aceptacion por parte de los residentes de areas rurales, sino tambien para las mismas instituciones estatales que pudieran aceptar sacar informacion de aqui, explicando de la forma menos tecnica posible el funcionamiento de la tecnologia implementada a fin de que sea lo mas sencillo de entender para el usuario. DAndonos al final una interpretacion de que desde su punto de vista la aplicacion si podria tener buen futuro en el ambito que el representa.
+
+Link de la entrevista: 
+
+Timing: 15:13 - 20:03
+
+---
+
 ### 7.3.3. Evaluaciones según heurísticas
 ---
+
+### UX Heuristics & Principles Evaluation
+
+**Información General**
+
+- Proyecto: SecureID
+- Curso: Arquitecturas de Software Emergentes
+- Vistas Evaluadas: Login, Registro, Identificación Digital, Servicios
+- Escala de Severidad:
+    1. Problema superficial.
+    2. Problema menor.
+    3. Problema mayor.
+    4. Problema muy grave.
+
+**Evaluación de Problemas**
+
+| #  | Problema                                                                                 | Escala de Severidad | Heurística/Principio Violada(o)                   |
+|----|------------------------------------------------------------------------------------------|---------------------|---------------------------------------------------|
+| 1  | El proceso de registro no proporciona retroalimentación clara al usuario si falta información.                             | 3                   | Usabilidad: Visibilidad del Estado del Sistema       |
+| 2  | La navegación en el menú de servicios es adecuada pero podría incluir una opción para consultas específicas. | 2                   | Usabilidad: Flexibilidad y Eficiencia de Uso       |
+| 3  | Falta de personalización en los servicios disponibles según las necesidades del usuario.               | 2                   | Usabilidad: Control y Libertad del Usuario          |
+| 4  | La interfaz de Identificación Digital es intuitiva, pero podría beneficiarse de más información contextual.               | 1                   | Diseño Estético y Minimalista          |
+| 5  | En la sección de login, no se proporciona un mensaje claro cuando el usuario ingresa credenciales incorrectas.               | 3                   | Usabilidad: Visibilidad del Estado del Sistema          |
+
+**Descripción de Problemas y Recomendaciones**
+
+1. PROBLEMA #1: El proceso de registro no proporciona retroalimentación clara al usuario si falta información.
+- Severidad: 3
+- Heurística Violada: Usabilidad - Visibilidad del Estado del Sistema
+- Descripción: Durante el proceso de registro, el usuario no recibe retroalimentación inmediata cuando omite un campo obligatorio, lo que puede generar confusión sobre si el registro fue exitoso o si falta información.
+- Recomendación: Implementar mensajes de error en tiempo real que indiquen los campos obligatorios que faltan por completar, facilitando el flujo de registro.
+
+    <img src="./assets/7.3.3.Evaluacionessegúnheurísticas/login.png" width="700"/>
+
+
+2. PROBLEMA #2: La navegación en el menú de servicios es adecuada pero podría incluir una opción para consultas específicas.
+- Severidad: 2
+- Heurística Violada: Usabilidad - Flexibilidad y Eficiencia de Uso
+- Descripción: La aplicación proporciona acceso a servicios mediante iconos, pero carece de opciones para consultas o solicitudes específicas, lo que limita la flexibilidad para el usuario.
+- Recomendación: Añadir opciones de interacción, como consultas y solicitudes personalizadas en la sección de servicios, permitiendo a los usuarios acceder a servicios de acuerdo con sus necesidades.
+
+    <img src="./assets/7.3.3.Evaluacionessegúnheurísticas/servicios.png" width="700"/>
+
+3. PROBLEMA #3: Falta de personalización en los servicios disponibles según las necesidades del usuario.
+- Severidad: 2
+- Heurística Violada: Usabilidad - Control y Libertad del Usuario
+- Descripción: Actualmente, la aplicación no permite a los usuarios personalizar la vista de servicios, lo cual puede afectar la eficiencia de uso.
+- Recomendación: Permitir que los usuarios configuren los servicios según sus necesidades, destacando aquellos que son más relevantes para su perfil.
+
+    <img src="./assets/7.3.3.Evaluacionessegúnheurísticas/servicios2.png" width="700"/>
+
+4. PROBLEMA #4: La interfaz de Identificación Digital es intuitiva, pero podría beneficiarse de más información contextual.
+- Severidad: 1
+- Heurística Violada: Diseño Estético y Minimalista
+- Descripción: La interfaz es clara y accesible, pero una mayor información contextual ayudaría a comprender mejor cada campo.
+- Recomendación: Añadir descripciones breves o herramientas de ayuda en los campos clave de Identificación Digital, sin sobrecargar la interfaz.
+
+    <img src="./assets/7.3.3.Evaluacionessegúnheurísticas/documento.png" width="700"/>
+
+5. PROBLEMA #5: En la sección de login, no se proporciona un mensaje claro cuando el usuario ingresa credenciales incorrectas.
+- Severidad: 3
+- Heurística Violada: Usabilidad - Visibilidad del Estado del Sistema
+- Descripción: Al ingresar credenciales incorrectas, no se muestra un mensaje claro de error, lo que puede confundir a los usuarios sobre si el error es del sistema o por datos incorrectos.
+- Recomendación: Implementar mensajes de error específicos que indiquen que las credenciales son incorrectas, brindando claridad al usuario y mejorando la experiencia de inicio de sesión.
+
+    <img src="./assets/7.3.3.Evaluacionessegúnheurísticas/inicio.png" width="700"/>
 
 ## 7.4. Video About-the-Product
 ---
