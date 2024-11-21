@@ -519,8 +519,8 @@ Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 | Attendees (to planning meeting) | Aldo Pastrana / Anderson Ore / Max Sabino / Sebastian Hernandez / Rodrigo López |
 | **Sprint n-1 Review Summary** | Este sprint se centró en completar el desarrollo del frontend de la aplicación. Todos los integrantes del equipo cumplieron con sus responsabilidades, lo que permitió que se avanzara de manera significativa en la interfaz de usuario. El trabajo incluyó la implementación de componentes clave, mejoras en la navegación, y corrección de errores visuales y de usabilidad. El equipo trabajó de manera colaborativa, manteniendo una comunicación fluida y alineada con los objetivos del sprint. |
 | **Sprint n-1 Retrospective Summary** | En la retrospectiva de este sprint, nos centramos en el desarrollo de la parte frontend de la aplicación. Se logró avanzar de manera significativa en la implementación de las funcionalidades clave, mejorando la interfaz de usuario y optimizando la experiencia de navegación. Todos los miembros del equipo cumplieron con sus tareas asignadas, lo que permitió una integración fluida de los componentes diseñados y el cumplimiento de los plazos establecidos. A pesar de algunos desafíos menores en la compatibilidad entre navegadores, el equipo respondió de manera eficiente, logrando resolver los problemas rápidamente. En general, el sprint fue productivo, con un buen ritmo de trabajo y colaboración entre los miembros del equipo. Sin embargo, se identificó la necesidad de mejorar la comunicación en torno a los cambios de última hora, para evitar posibles malentendidos en futuros desarrollos. |
-| **Sprint Goal & User Stories** |  Realizar el backend de la aplicacion asi como la integracion con el Frontend desarrollado en el sprint 1. |
-| Sprint 2 Goal  | Realizar el desarrollo del Landing Page y Aplicación Móvil |
+| **Sprint Goal & User Stories** |   |
+| Sprint 2 Goal  | Realizar el backend de la aplicacion asi como la integracion con el Frontend desarrollado en el sprint 1. |
 | Sprint 2 Velocity | 81 |
 | Sum of story Points | 72 |
 
