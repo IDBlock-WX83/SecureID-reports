@@ -650,13 +650,24 @@ Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 #### 7.2.2.3. Development Evidence for Sprint Review
 
 
+
+
 #### 7.2.2.4. Testing Suite Evidence for Sprint Review
+En esta seccion se realizaron los Acceptance Tests para cada User Story en formato Gherkin 
+
+>Enlace a Gherkin Testing https://github.com/IDBlock-WX83/SecureID-gherkin
+
+| Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body                                  | Committed on (Date) |
+|---------------------|-------------------|-----------|--------------------------|------------------------------------------------------|---------------------|
+| https://github.com/IDBlock-WX83/SecureID-gherkin | main | 54b8c7da4203d3176350b9d651a5c690010b7ef7  | user stories tests | update user stories tests | 20/11/2024         |
+| https://github.com/IDBlock-WX83/SecureID-web-service | main | a72350189f98b338cf8bb83396b0ec36b4c26a5f  | Create SocialServicesController.java | Update Create SocialServicesController.java | 20/11/2024         |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | main | bd9a1a4dd47b6d1bd22099f8dc7b45d534aa6ba8  | feat: Connection with backend test | Add connection with backend test| 20/11/2024         |
 
 
 #### 7.2.2.5. Execution Evidence for Sprint Review
 > Las tareas a realizar en cada sprint para la elaboración del API y App móvil fueron:
 
-API: Desarrollo e Implementación
+Web Service: Desarrollo e Implementación
 
 •	desarrollo de un API modular y escalable.
 
@@ -672,6 +683,33 @@ App Móvil: Actualización y Mejora
 
 •	Integración completa con el nuevo API para sincronización de datos.
 
+
+
+>A continuación, se muestran algunas de las interfaces mas importantes desarrolladas.
+
+>Historial de transacciones, donde podran visualizar los blockchain de sus servicios realizados
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/1.jpg" />
+
+>Menu Principal, donde podran visualizar las funcionalilades que tiene la aplicación móvil
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/2.jpg" />
+
+>Pantalla de inicio, donde podran desplazarse a distintas partes de la aplicacion
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/3.jpg" />
+
+>Busqueda de residentes, donde podran buscar los distintos residentes registrados
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/4.jpg" />
+
+>Perfil de residente, donde podran visualizar datos del residente como su documentación digital
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/5.jpg" />
+
+>Registro, donde se podra registrar un residente
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/6.jpg" />
 
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
 >El API y aplicación móvil de nuestro proyecto se desarrollaron utilizando el sistema de control de versiones de Git, lo cual se puede verificar en el repositorio correspondiente del proyecto respectivamente:
