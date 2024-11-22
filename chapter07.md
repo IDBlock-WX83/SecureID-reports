@@ -505,6 +505,285 @@ Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 
 <img src="./assets/7.2.1.8.TeamCollaborationInsightsduringSprint/collaboration.png" width="700"/>
 
+### 7.2.2. Sprint 2
+#### 7.2.2.1. Sprint Planning 2
+
+---
+| Sprint#        | Sprint 2                      |
+|----------------|-------------------------------|
+| **Sprint Planning Background** |   |
+| Date           | 08/11/2024                    |
+| Time           | 11:00 pm                      |
+| Location       | Google meet                   |
+| Prepared By    | Aldo Pastrana |
+| Attendees (to planning meeting) | Aldo Pastrana / Anderson Ore / Max Sabino / Sebastian Hernandez / Rodrigo López |
+| **Sprint n-1 Review Summary** | Este sprint se centró en completar el desarrollo del frontend de la aplicación. Todos los integrantes del equipo cumplieron con sus responsabilidades, lo que permitió que se avanzara de manera significativa en la interfaz de usuario. El trabajo incluyó la implementación de componentes clave, mejoras en la navegación, y corrección de errores visuales y de usabilidad. El equipo trabajó de manera colaborativa, manteniendo una comunicación fluida y alineada con los objetivos del sprint. |
+| **Sprint n-1 Retrospective Summary** | En la retrospectiva de este sprint, nos centramos en el desarrollo de la parte frontend de la aplicación. Se logró avanzar de manera significativa en la implementación de las funcionalidades clave, mejorando la interfaz de usuario y optimizando la experiencia de navegación. Todos los miembros del equipo cumplieron con sus tareas asignadas, lo que permitió una integración fluida de los componentes diseñados y el cumplimiento de los plazos establecidos. A pesar de algunos desafíos menores en la compatibilidad entre navegadores, el equipo respondió de manera eficiente, logrando resolver los problemas rápidamente. En general, el sprint fue productivo, con un buen ritmo de trabajo y colaboración entre los miembros del equipo. Sin embargo, se identificó la necesidad de mejorar la comunicación en torno a los cambios de última hora, para evitar posibles malentendidos en futuros desarrollos. |
+| **Sprint Goal & User Stories** |   |
+| Sprint 2 Goal  | Realizar el backend de la aplicacion asi como la integracion con el Frontend desarrollado en el sprint 1. |
+| Sprint 2 Velocity | 81 |
+| Sum of story Points | 72 |
+
+#### 7.2.2.2. Sprint Backlog 2
+---
+<table>
+    <tr>
+        <th colspan="1">Sprint #</th>
+        <th colspan="5">Sprint 2</th>
+    </tr>
+    <tr>
+        <th colspan="2">User Story</th>
+        <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned To</td>
+        <td>Status (To-do / In-Process / To-Review / Done)</td>
+    </tr>
+    <tr>
+        <td>US04</td>
+        <td>Seguridad y Protección de Datos</td>
+        <td>TK01</td>
+        <td>Seguridad y Protección de Datos</td>
+        <td>Como usuario, quiero que la plataforma garantice la seguridad y protección de mis datos personales para confiar en el uso de SecureID.</td>
+        <td>13</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US05</td>
+        <td>Uso de la Plataforma sin Conexión a Internet</td>
+        <td>TK01</td>
+        <td>Uso de la Plataforma sin Conexión a Internet</td>
+        <td>Como residente de una zona rural, quiero poder utilizar la plataforma sin conexión a internet para seguir accediendo a servicios esenciales.</td>
+        <td>8</td>
+        <td>Aldo Pastrana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US08</td>
+        <td>Escalabilidad de la Plataforma</td>
+        <td>TK01</td>
+        <td>Escalabilidad de la Plataforma</td>
+        <td>Como administrador, quiero que la plataforma sea escalable para manejar un número creciente de usuarios y servicios sin afectar el rendimiento.</td>
+        <td>13</td>
+        <td>Anderson Ore</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US09</td>
+        <td>Implementación del Registro de Identidad en Blockchain</td>
+        <td>TK01</td>
+        <td>Registro de Identidad en Blockchain</td>
+        <td>Como usuario, quiero que mi identidad digital esté registrada en una blockchain para garantizar la inmutabilidad y seguridad de mis datos.</td>
+        <td>13</td>
+        <td>Max Sabino</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US11</td>
+        <td>Verificación de Identidad en Tiempo Real</td>
+        <td>TK01</td>
+        <td>Verificación de Identidad en Tiempo Real</td>
+        <td>Como autoridad local, quiero verificar las identidades de los usuarios en tiempo real para agilizar la entrega de servicios esenciales.</td>
+        <td>13</td>
+        <td>Max Sabino</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US12</td>
+        <td>Integración con Bases de Datos Gubernamentales</td>
+        <td>TK01</td>
+        <td>Bases de Datos Gubernamentales</td>
+        <td>Como administrador, quiero integrar la plataforma con bases de datos gubernamentales para optimizar la gestión y verificación de identidades.</td>
+        <td>13</td>
+        <td>Sebastian Hernandez</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US13</td>
+        <td>Gestión de Permisos y Acceso a Datos</td>
+        <td>TK01</td>
+        <td>Gestión de Permisos y Acceso a Datos</td>
+        <td>Como usuario, quiero gestionar permisos y accesos a mis datos personales para tener control sobre quién puede acceder a mi información.</td>
+        <td>8</td>
+        <td>Rodrigo López</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US14</td>
+        <td>Escalabilidad del Sistema</td>
+        <td>TK01</td>
+        <td>Escalabilidad del Sistema</td>
+        <td>Como administrador, quiero que el sistema sea escalable para soportar un aumento en la cantidad de usuarios y transacciones.</td>
+        <td>13</td>
+        <td>Anderson Ore</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US15</td>
+        <td>Implementación de Logs y Auditorías de Seguridad</td>
+        <td>TK01</td>
+        <td>Logs y Auditorías de Seguridad</td>
+        <td>Como administrador, quiero implementar logs y auditorías de seguridad para garantizar la trazabilidad y el cumplimiento normativo.</td>
+        <td>8</td>
+        <td>Sebastian Hernandez</td>
+        <td>In-Process</td>
+    </tr>
+    <tr>
+        <td>US16</td>
+        <td>Respaldo y Recuperación de Datos</td>
+        <td>TK01</td>
+        <td>Respaldo y Recuperación de Datos</td>
+        <td>Como administrador, quiero un sistema de respaldo y recuperación de datos para asegurar la disponibilidad de la información ante fallos o desastres.</td>
+        <td>13</td>
+        <td>Rodrigo López</td>
+        <td>In-Process</td>
+    </tr>
+</table>
+
+#### 7.2.2.3. Development Evidence for Sprint Review
+
+| Repository                                            | Branch   | Commit Id                              | Commit Message                 | Commit Message Body                             | Committed on (Date) |
+|-------------------------------------------------------|----------|----------------------------------------|--------------------------------|-------------------------------------------------|---------------------|
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 9d556e2b83ee22f779afd9ab5c4c072c17fe5e63 | feat Social services dtos      | Added DTOs for Social Services.                | 19/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 7048d854b962da66a429dbd20e396e8d37d346eb | Create SocialServicesRepository.java | Created repository for managing social services. | 19/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | e9765b9868b935c1a98633f0a856ae929f5fc6e1 | Create SocialServicesMapper.java | Added mapper for social services transformation. | 19/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 4d9f2a7fa4c0dac9be169b2ff4f4a5a06ab73e8c | Create SocialServicesService.java | Implemented service logic for social services.  | 19/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | c02c31a2fb687fee59240ab8632b37fa1bf978d4 | Create SocialServicesController.java | Developed controller for social services endpoints. | 19/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | a72350189f98b338cf8bb83396b0ec36b4c26a5f | Add Services endpoints         | Added API endpoints for social services.        | 20/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 4bebfee73624849cdb2a7f65ad9cbdf62d00f7b1 | Add Logica                     | Integrated business logic for services.         | 21/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 18af6966ed99e293e35f3cc6b6c2ff97687e4a28 | delete services by Max         | Removed unnecessary services as per request.    | 21/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 4fc8b281cce3c4dab1a42ae4486d62d1dba1dd8f | Add additional logic           | Added additional logic for services operations. | 21/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | develop  | cf7f4e10e804eec594923c212268cc36f46ca6d8 | Add Logica                     | Integrated additional logic for services. | 21/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | develop  | bd9a1a4dd47b6d1bd22099f8dc7b45d534aa6ba8 | feat: Connection with backend  | Implemented connection between app and backend services. | 21/11/2024          |
+
+#### 7.2.2.4. Testing Suite Evidence for Sprint Review
+En esta seccion se realizaron los Acceptance Tests para cada User Story en formato Gherkin 
+
+>Enlace a Gherkin Testing https://github.com/IDBlock-WX83/SecureID-gherkin
+
+| Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body                                  | Committed on (Date) |
+|---------------------|-------------------|-----------|--------------------------|------------------------------------------------------|---------------------|
+| https://github.com/IDBlock-WX83/SecureID-gherkin | main | 54b8c7da4203d3176350b9d651a5c690010b7ef7  | user stories tests | update user stories tests | 20/11/2024         |
+| https://github.com/IDBlock-WX83/SecureID-web-service | main | a72350189f98b338cf8bb83396b0ec36b4c26a5f  | Create SocialServicesController.java | Update Create SocialServicesController.java | 20/11/2024         |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | main | bd9a1a4dd47b6d1bd22099f8dc7b45d534aa6ba8  | feat: Connection with backend test | Add connection with backend test| 20/11/2024         |
+
+
+#### 7.2.2.5. Execution Evidence for Sprint Review
+> Las tareas a realizar en cada sprint para la elaboración del API y App móvil fueron:
+
+Web Service: Desarrollo e Implementación
+
+•	desarrollo de un API modular y escalable.
+
+•	Realización de pruebas exhaustivas para garantizar funcionalidad y seguridad.
+
+•	Implementación exitosa del API e integración con la aplicación móvil.
+
+App Móvil: Actualización y Mejora
+
+•	Corrección de errores críticos reportados por los usuarios.
+
+•	Actualización de la interfaz de usuario (UI) para mejorar la experiencia.
+
+•	Integración completa con el nuevo API para sincronización de datos.
+
+
+
+>A continuación, se muestran algunas de las interfaces mas importantes desarrolladas.
+
+>Historial de transacciones, donde podran visualizar los blockchain de sus servicios realizados
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/1.jpg" />
+
+>Menu Principal, donde podran visualizar las funcionalilades que tiene la aplicación móvil
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/2.jpg" />
+
+>Pantalla de inicio, donde podran desplazarse a distintas partes de la aplicacion
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/3.jpg" />
+
+>Busqueda de residentes, donde podran buscar los distintos residentes registrados
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/4.jpg" />
+
+>Perfil de residente, donde podran visualizar datos del residente como su documentación digital
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/5.jpg" />
+
+>Registro, donde se podra registrar un residente
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/7.jpg" />
+
+>Documento identidad, donde se podra visualizar datos importantes del usuario
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/8.jpg" />
+
+#### 7.2.2.6. Services Documentation Evidence for Sprint Review
+>El API y aplicación móvil de nuestro proyecto se desarrollaron utilizando el sistema de control de versiones de Git, lo cual se puede verificar en el repositorio correspondiente del proyecto respectivamente:
+https://github.com/IDBlock-WX83/SecureID-web-service 
+https://github.com/IDBlock-WX83/SecureID-mobile-application
+
+>Captura de endpoints en OpeanAI 
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_6_openapi_swagger.png" />
+
+
+
+>Se utilizo Springboot para el desarrollo del web service
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_6_github_web_service.png" />
+
+
+> Se utilizó flutter para el desarrollo móvil 
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_6_github_mobile_app.png"/>
+
+#### 7.2.2.7. Software Deployment Evidence for Sprint Review
+>En este sprint, se ha completado el despliegue del API .
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_6_openapi_swagger.png" />
+
+>Para el uso de la aplicacion, se realizo un build y se genero el archivo APK para la descarga de la aplicacion
+
+
+<img src="./assets/7.2.2 Sprint 2/Test/3_mobile.png"/>
+
+#### 7.2.2.8. Team Collaboration Insights during Sprint
+
+API
+>Hemos desarrollado la implementacion del web service en ramas de la siguiente manera
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_8_api.png" />
+
+>Commits hechos
+
+<img src="./assets/7.2.2 Sprint 2/Test/1_service.png"/>
+
+>Collaboration
+
+<img src="./assets/7.2.2 Sprint 2/Test/2_service.png"/>
+
+Mobile Application
+>Hemos desarrollado la implementacion de la Mobile App en ramas de la siguiente manera
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_8_mobile.png"/>
+
+>Commits hechos
+
+<img src="./assets/7.2.2 Sprint 2/Test/2_MOBILE.png"/>
+
+>Collaboration
+
+<img src="./assets/7.2.2 Sprint 2/Test/1_mobile.png"/>
+
 ## 7.3. Validation Interviews
 ---
 
