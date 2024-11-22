@@ -4,7 +4,7 @@
 ### Ingeniería de Software
 .
 # SecureID
-### TB2 REPORT - IDBlock
+### TF REPORT - IDBlock
 ================================
 #### Team members
 - Pastrana León, Aldo Francisco (U20211C186)
@@ -39,6 +39,8 @@ TB1: El equipo ha abordado con éxito los puntos requeridos para la entrega soli
 TP: En el marco de la segunda entrega, el equipo ha consolidado una mayor destreza en la elaboración del informe mediante el uso de Markdown, capitalizando la versatilidad de esta interfaz para integrar código HTML. Nos complace informar que hemos cumplido de manera integral con los puntos requeridos en el entregable. Además, es importante destacar que se ha registrado un progreso sustancial tanto en la optimización de la página de inicio como en el desarrollo de la aplicación web.
 
 TB2: Para la tercera entrega (TB2), el equipo priorizó el desarrollo de la aplicación móvil y, logrando completar gran parte de ambos. El desarrollo del frontend móvil se realizó utilizando Flutter. En cuanto a la documentación, se llevó a cabo el Sprint 1, considerando las historias de usuario que se ajustaban al desarrollo del frontend móvil.
+
+TF: Para la entrega final, el equipo mejoro la aplicacion movil y se desarrollo el web service.
 
 > Analíticos para el TB1
 
