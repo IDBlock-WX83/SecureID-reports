@@ -743,10 +743,14 @@ https://github.com/IDBlock-WX83/SecureID-mobile-application
 <img src="./assets/7.2.2 Sprint 2/7_2_2_6_github_mobile_app.png"/>
 
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
->En este sprint, se ha completado el despliegue del API . Esto ha implicado la creación de cuentas, la configuración de recursos de los proveedores en la nube y su respectiva configuración para su integración con la aplicación móvil.
+>En este sprint, se ha completado el despliegue del API .
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_6_openapi_swagger.png" />
+
+>Para el uso de la aplicacion, se realizo un build y se genero el archivo APK para la descarga de la aplicacion
 
 
-
+<img src="./assets/7.2.2 Sprint 2/Test/3_mobile.png"/>
 
 #### 7.2.2.8. Team Collaboration Insights during Sprint
 
