@@ -632,11 +632,70 @@ Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 </table>
 
 #### 7.2.2.3. Development Evidence for Sprint Review
+
+
 #### 7.2.2.4. Testing Suite Evidence for Sprint Review
+
+
 #### 7.2.2.5. Execution Evidence for Sprint Review
+> Las tareas a realizar en cada sprint para la elaboración del API y App móvil fueron:
+
+API: Desarrollo e Implementación
+
+•	desarrollo de un API modular y escalable.
+
+•	Realización de pruebas exhaustivas para garantizar funcionalidad y seguridad.
+
+•	Implementación exitosa del API e integración con la aplicación móvil.
+
+App Móvil: Actualización y Mejora
+
+•	Corrección de errores críticos reportados por los usuarios.
+
+•	Actualización de la interfaz de usuario (UI) para mejorar la experiencia.
+
+•	Integración completa con el nuevo API para sincronización de datos.
+
+
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
+>El API y aplicación móvil de nuestro proyecto se desarrollaron utilizando el sistema de control de versiones de Git, lo cual se puede verificar en el repositorio correspondiente del proyecto respectivamente:
+https://github.com/IDBlock-WX83/SecureID-web-service 
+https://github.com/IDBlock-WX83/SecureID-mobile-application
+
+>Captura de endpoints en OpeanAI 
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_6_openapi_swagger.png" />
+
+
+
+>Se utilizo Springboot para el desarrollo del web service
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_6_github_web_service.png" />
+
+
+> Se utilizó flutter para el desarrollo móvil 
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_6_github_mobile_app.png"/>
+
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
+>En este sprint, se ha completado el despliegue del API . Esto ha implicado la creación de cuentas, la configuración de recursos de los proveedores en la nube y su respectiva configuración para su integración con la aplicación móvil.
+
+
+
+
 #### 7.2.2.8. Team Collaboration Insights during Sprint
+
+API
+>Hemos desarrollado la implementacion del web service en ramas de la siguiente manera
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_8_api.png" />
+
+
+
+Mobile Application
+>Hemos desarrollado la implementacion de la Mobile App en ramas de la siguiente manera
+
+<img src="./assets/7.2.2 Sprint 2/7_2_2_8_mobile.png"/>
 
 
 ## 7.3. Validation Interviews
