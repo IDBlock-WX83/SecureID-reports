@@ -649,8 +649,19 @@ Cuando hemos realizado todos los cambios necesarios, hacer clic en "Deploy".
 
 #### 7.2.2.3. Development Evidence for Sprint Review
 
-
-
+| Repository                                            | Branch   | Commit Id                              | Commit Message                 | Commit Message Body                             | Committed on (Date) |
+|-------------------------------------------------------|----------|----------------------------------------|--------------------------------|-------------------------------------------------|---------------------|
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 9d556e2b83ee22f779afd9ab5c4c072c17fe5e63 | feat Social services dtos      | Added DTOs for Social Services.                | 19/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 7048d854b962da66a429dbd20e396e8d37d346eb | Create SocialServicesRepository.java | Created repository for managing social services. | 19/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | e9765b9868b935c1a98633f0a856ae929f5fc6e1 | Create SocialServicesMapper.java | Added mapper for social services transformation. | 19/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 4d9f2a7fa4c0dac9be169b2ff4f4a5a06ab73e8c | Create SocialServicesService.java | Implemented service logic for social services.  | 19/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | c02c31a2fb687fee59240ab8632b37fa1bf978d4 | Create SocialServicesController.java | Developed controller for social services endpoints. | 19/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | a72350189f98b338cf8bb83396b0ec36b4c26a5f | Add Services endpoints         | Added API endpoints for social services.        | 20/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 4bebfee73624849cdb2a7f65ad9cbdf62d00f7b1 | Add Logica                     | Integrated business logic for services.         | 21/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 18af6966ed99e293e35f3cc6b6c2ff97687e4a28 | delete services by Max         | Removed unnecessary services as per request.    | 21/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-web-service | develop  | 4fc8b281cce3c4dab1a42ae4486d62d1dba1dd8f | Add additional logic           | Added additional logic for services operations. | 21/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | develop  | cf7f4e10e804eec594923c212268cc36f46ca6d8 | Add Logica                     | Integrated additional logic for services. | 21/11/2024          |
+| https://github.com/IDBlock-WX83/SecureID-mobile-application | develop  | bd9a1a4dd47b6d1bd22099f8dc7b45d534aa6ba8 | feat: Connection with backend  | Implemented connection between app and backend services. | 21/11/2024          |
 
 #### 7.2.2.4. Testing Suite Evidence for Sprint Review
 En esta seccion se realizaron los Acceptance Tests para cada User Story en formato Gherkin 
@@ -744,13 +755,26 @@ API
 
 <img src="./assets/7.2.2 Sprint 2/7_2_2_8_api.png" />
 
+>Commits hechos
 
+<img src="./assets/7.2.2 Sprint 2/Test/1_service.png"/>
+
+>Collaboration
+
+<img src="./assets/7.2.2 Sprint 2/Test/2_service.png"/>
 
 Mobile Application
 >Hemos desarrollado la implementacion de la Mobile App en ramas de la siguiente manera
 
 <img src="./assets/7.2.2 Sprint 2/7_2_2_8_mobile.png"/>
 
+>Commits hechos
+
+<img src="./assets/7.2.2 Sprint 2/Test/2_MOBILE.png"/>
+
+>Collaboration
+
+<img src="./assets/7.2.2 Sprint 2/Test/1_mobile.png"/>
 
 ## 7.3. Validation Interviews
 ---
