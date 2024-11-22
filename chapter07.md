@@ -720,7 +720,11 @@ App Móvil: Actualización y Mejora
 
 >Registro, donde se podra registrar un residente
 
-<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/6.jpg" />
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/7.jpg" />
+
+>Documento identidad, donde se podra visualizar datos importantes del usuario
+
+<img src="./assets/7.2.2 Sprint 2/7.2.2.5 Execution/8.jpg" />
 
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
 >El API y aplicación móvil de nuestro proyecto se desarrollaron utilizando el sistema de control de versiones de Git, lo cual se puede verificar en el repositorio correspondiente del proyecto respectivamente:
